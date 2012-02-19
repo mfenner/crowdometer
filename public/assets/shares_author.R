@@ -20,12 +20,8 @@ piesubtitle <- sprintf("%3.0f Tweets", sum(results))
 # Create label
 pielabels <- sprintf("%s (%2.0f%s)", names(results), 100*results/sum(results), "%")
 
-# Load color palette
-library(RColorBrewer)
-colors = brewer.pal(3, "Blues")
-
 # Do the plotting
 opar <- par(mar=c(4,2,2,2), cex.sub=0.8, cex.main=1.4, fg="black", col.main="#25679a")
-pie(results, labels=pielabels, col=colors, init.angle=130, cex=0.8, lty=1)
+pie(results, labels=pielabels, init.angle=130, cex=0.8, lty=1)
 title(main="Tweets by Author/Publisher of Paper", sub=piesubtitle, line=-1)
 par(opar)
