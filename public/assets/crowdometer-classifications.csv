@@ -1,0 +1,954 @@
+id,rating_author,rating_date,tweet_id,tweet_author,is_spam,topic,shares_author,rhetoric,uses_method,uses_data,uses_conclusions
+60,mfenner,12/20/11,130760381336530945,dorianyoung78,,,false,discusses,false,false,false
+61,mfenner,12/20/11,130744065540100096,tatianaochoahip,,,false,discusses,false,false,false
+62,mfenner,01/05/12,124565705420058624,dragonsmedical,false,Medicine &amp; Health,false,discusses,false,false,true
+63,mfenner,01/05/12,126694928540647424,TheSpiderMind,false,Social Sciences &amp; Economics,false,discusses,false,false,true
+64,mfenner,01/05/12,130688098848882688,DN_P,false,Medicine &amp; Health,false,discusses,false,false,false
+65,mfenner,12/20/11,130636211625787392,RefractiveIndex,,,false,discusses,false,false,true
+66,mfenner,12/20/11,130157170925899776,renelaennec,,,false,discusses,false,false,true
+67,mfenner,01/05/12,127425603623325696,lfpalmer,false,Medicine &amp; Health,false,discusses,true,false,false
+68,mfenner,01/05/12,127408763056553984,politixgirl,false,Life Sciences,false,discusses,false,false,true
+69,mfenner,01/05/12,124204505544916992,richardabetts,false,Other,false,discusses,false,false,false
+70,mfenner,12/20/11,120803633519534080,grasscraig,,,false,discusses,false,false,false
+71,mfenner,01/05/12,127767916333641728,pascalmeier74,false,Medicine &amp; Health,false,discusses,false,false,false
+72,mfenner,01/05/12,124997984978092033,why_we_do_that,false,Medicine &amp; Health,false,discusses,true,false,false
+73,mfenner,01/05/12,121633960089489408,rblumel,false,Physics &amp; Astronomy,false,agreesWith,false,false,true
+74,mfenner,01/05/12,121923491221082112,razz0r,false,Computer Science &amp; Math,false,discusses,false,false,false
+75,mfenner,12/20/11,127305188183785472,calmedoc,,,false,discusses,false,false,true
+76,mfenner,01/05/12,124390343763427329,PPO_journal_lww,false,Medicine &amp; Health,true,discusses,false,false,false
+77,mfenner,12/20/11,119910644878278657,juancivancevich,,,false,discusses,false,false,false
+78,mfenner,01/05/12,127072524742828032,divhealthpsych,false,Medicine &amp; Health,false,discusses,false,true,false
+79,mfenner,12/20/11,124288156630659072,kerikimler,,,false,discusses,false,false,false
+80,Stew,01/01/12,130772710832869378,nanoluis_bastos,false,,false,agreesWith,false,false,false
+81,Stew,12/20/11,130760381336530945,dorianyoung78,,,false,discusses,false,false,false
+82,Stew,12/20/11,130744065540100096,tatianaochoahip,,,false,discusses,false,false,false
+83,Stew,12/20/11,130740017218854912,Chris_Evelo,,,false,discusses,false,false,false
+84,Stew,12/20/11,130704510334148608,SternStewart_Co,,,false,discusses,false,false,false
+85,Stew,12/20/11,124647924012564480,kookyideas,,,false,discusses,false,false,false
+86,Stew,12/20/11,121549611209986048,vegfrssfeeds,,,false,discusses,false,false,false
+87,Stew,12/20/11,126227856408850432,ahenotri,,,false,discusses,false,false,false
+88,Stew,12/20/11,126012130481799169,CardiologiaF,,,false,discusses,false,false,false
+89,Stew,12/20/11,121669385873145856,mcs_america,,,false,discusses,false,false,false
+90,mfenner,01/05/12,121067947010686976,vincentr,false,Social Sciences &amp; Economics,false,agreesWith,false,false,false
+91,mfenner,01/05/12,120996646392832000,pregnancyissues,false,Medicine &amp; Health,false,discusses,false,false,false
+92,Stew,12/20/11,124551051222327296,Montagist,,,false,discusses,false,true,false
+93,Stew,12/20/11,124504469403734016,pranagirl,,,false,discusses,false,false,false
+94,Stew,12/20/11,120186056187457537,advantagephysio,,,false,discusses,false,false,false
+95,Stew,12/20/11,128937495944626176,CEP_Rachel,,,false,agreesWith,false,false,true
+96,Stew,12/20/11,124219177748791297,JONAonline,,,false,discusses,false,false,false
+97,Stew,12/20/11,130677527873204224,andypsumner,,,false,discusses,false,false,false
+98,Stew,12/20/11,130427699943579648,ConserveWords,,,false,agreesWith,true,false,false
+99,Stew,12/20/11,130370000597946368,dfjpt,,,false,agreesWith,false,true,false
+100,Stew,12/20/11,130157170925899776,renelaennec,,,false,agreesWith,false,false,true
+101,mfenner,01/05/12,130663518562291712,RogerDJones1,false,Medicine &amp; Health,false,discusses,false,false,false
+102,mfenner,01/05/12,130506895852191744,ScientistSaba,false,Life Sciences,false,discusses,false,false,false
+103,mfenner,01/05/12,130127354633785344,wintjc,false,Medicine &amp; Health,false,discusses,true,false,false
+104,mfenner,01/05/12,130095101895647233,BilliePerry,false,Earth Sciences,false,discusses,false,false,true
+105,mfenner,01/05/12,130052081972293633,SlopeyPen,false,Earth Sciences,false,discusses,false,false,false
+106,mfenner,01/05/12,124580479314829312,jjriosblanco,false,Medicine &amp; Health,false,discusses,false,false,false
+107,mfenner,01/05/12,128852195381751808,mjpallen,false,Medicine &amp; Health,false,discusses,false,false,false
+108,mfenner,01/05/12,120933285873463297,sophs37,false,Medicine &amp; Health,false,discusses,false,false,false
+109,mfenner,12/20/11,123786429343072256,topinscience,,,false,discusses,false,false,false
+110,mfenner,01/05/12,126939166700339200,CAT_DOG_EGG,false,Life Sciences,false,discusses,false,false,false
+111,mfenner,12/20/11,121549611209986048,vegfrssfeeds,,,false,discusses,false,false,true
+112,mfenner,01/05/12,129906522368131072,SPHEREproject,false,Medicine &amp; Health,false,discusses,false,false,true
+113,mfenner,01/05/12,129995133637763072,OliCorkhill,false,Medicine &amp; Health,false,discusses,false,false,true
+114,mfenner,12/20/11,128792706800558080,fermin771009,,,false,discusses,false,false,false
+115,mfenner,01/05/12,128990996317999105,JohnMakotoM,false,Life Sciences,false,discusses,false,false,true
+116,mfenner,01/05/12,124408034792452096,JCPjrnl_online,false,Medicine &amp; Health,false,discusses,false,true,false
+117,mfenner,12/20/11,124167772258320384,rogerdjones1,,,false,discusses,false,false,false
+118,mfenner,01/05/12,126756321390366720,JAMA_current,false,Medicine &amp; Health,true,discusses,false,false,true
+119,mfenner,01/05/12,124139803892658176,peter_tennant,false,Medicine &amp; Health,false,discusses,false,false,true
+120,mfenner,01/05/12,130243783869739008,EmeraldMkting,false,Social Sciences &amp; Economics,false,discusses,false,false,false
+121,mfenner,01/05/12,130156413069692930,SpywareLady,false,Social Sciences &amp; Economics,false,discusses,false,false,false
+122,mfenner,01/05/12,126403909605527552,XYMOGEN,false,Medicine &amp; Health,false,discusses,false,false,true
+123,mfenner,01/05/12,126051421031378944,IndiGenome,false,Medicine &amp; Health,false,discusses,false,false,false
+124,mfenner,12/20/11,125956218547216385,minabird,,,false,discusses,false,false,false
+125,tjvision,12/20/11,127031292880633856,MPPjournal,,,true,discusses,false,false,false
+126,tjvision,12/20/11,125251468893749249,cdrawn,,,false,discusses,false,false,false
+127,CameronNeylon,12/20/11,130052081972293633,SlopeyPen,,,false,discusses,false,false,true
+128,CameronNeylon,12/20/11,130037690006646787,ge_parada,,,false,discusses,false,false,false
+129,CameronNeylon,12/20/11,130016752653451264,davewalshphoto,,,true,discusses,false,true,false
+130,CameronNeylon,12/20/11,129936328929460224,RogerDJones1,,,false,discusses,false,false,true
+131,CameronNeylon,12/20/11,129697052643950592,tdevaul,,,false,discusses,false,false,true
+132,CameronNeylon,12/20/11,129647548385333248,k_hettinga,,,false,discusses,false,false,false
+133,CameronNeylon,12/20/11,129554936714366976,isaiahhankel,,,false,discusses,false,false,true
+134,CameronNeylon,12/20/11,129418155507453952,BraveNewClimate,,,false,discusses,false,false,false
+135,CameronNeylon,12/20/11,129390712356749312,ChristosArgyrop,,,false,discusses,false,false,true
+136,CameronNeylon,12/20/11,129296820722614273,AlysonHypnotik1,,,false,discusses,false,false,true
+137,mfenner,12/20/11,130029205202272257,MCCOUNL,,,false,discusses,false,false,false
+138,CameronNeylon,12/20/11,129278221614194689,mrvaidya,,,false,discusses,false,false,true
+139,mfenner,01/05/12,129995605836701696,leafwendywhit,false,Earth Sciences,false,discusses,false,false,false
+140,mfenner,01/05/12,129958327546425344,bexfelin,false,Medicine &amp; Health,false,discusses,false,false,false
+141,CameronNeylon,12/20/11,128985905376673793,trgearhart,,,false,discusses,false,false,true
+142,mfenner,12/20/11,129666042959106048,kaiddixou,,,false,discusses,false,false,true
+143,CameronNeylon,12/20/11,128863061745475586,pabigui,,,false,agreesWith,false,false,false
+144,CameronNeylon,12/20/11,128836845957169153,mjpallen,,,false,discusses,false,false,true
+145,CameronNeylon,12/20/11,128817039312822272,dsindiana,,,false,agreesWith,false,false,true
+146,CameronNeylon,12/20/11,128658352627650560,sarasteinmd,,,false,discusses,false,false,true
+147,CameronNeylon,12/20/11,128423070762405889,mjpallen,,,false,discusses,false,false,true
+148,CameronNeylon,12/20/11,128295976304775168,Charakan,,,false,agreesWith,false,false,true
+149,CameronNeylon,12/20/11,127868668230123520,cascadewellness,,,false,discusses,false,false,true
+150,CameronNeylon,12/20/11,127813378491170817,CoachCampbell,,,false,discusses,false,false,true
+151,CameronNeylon,12/20/11,127659682079834112,top_tw_science,,,false,discusses,false,true,true
+152,CameronNeylon,12/20/11,127250885893029889,_skyl,,,false,agreesWith,false,false,true
+153,CameronNeylon,12/20/11,127406943424880640,genentechnews,,,false,discusses,true,false,false
+154,CameronNeylon,12/20/11,127100818632609792,CharlieBio,,,false,discusses,false,false,true
+155,CameronNeylon,12/20/11,121978458225131521,hanizaza,,,false,discusses,false,true,false
+156,CameronNeylon,12/20/11,120298593801351168,rustlingmama,,,false,discusses,false,false,true
+157,CameronNeylon,12/20/11,120217214002528256,benlubbon,,,false,agreesWith,false,false,false
+158,mfenner,12/20/11,126055513476706305,helena_vidaurri,,,false,discusses,false,false,true
+159,rdmpage,12/20/11,124488164407648256,carinap,,,false,discusses,false,false,false
+160,rdmpage,12/20/11,129895050447552512,smangubhai,,,false,discusses,false,false,false
+161,rdmpage,12/20/11,123728714155573248,chemasianj,,,true,discusses,false,false,false
+162,rdmpage,12/20/11,123498443741208576,anaisaflores,,,false,discusses,false,false,false
+163,rdmpage,12/20/11,129953004295163904,yeacollective,,,false,discusses,false,false,false
+164,rdmpage,12/20/11,121247451981168640,hoppy212ny,,,false,discusses,false,false,false
+165,rdmpage,12/20/11,128241606510903296,MorelandHall,,,false,agreesWith,false,false,false
+166,mfenner,01/06/12,129621961511927808,hysell,false,Medicine &amp; Health,false,discusses,true,false,true
+167,Stew,12/20/11,127250322304413696,Travel_Health,,,false,discusses,false,false,true
+168,Stew,12/20/11,127216446135746560,XMRV_GA,,,false,agreesWith,false,false,true
+169,Stew,12/20/11,127198466089816064,cbjones1943,,,false,discusses,false,false,false
+170,Stew,12/20/11,127185128127594496,sapient_ape,,,false,agreesWith,false,false,true
+171,Stew,12/20/11,127174534527844353,RtestR,,,false,discusses,true,false,false
+172,Stew,12/20/11,127149820581380096,HealthNut_News,,,false,discusses,false,false,false
+173,Stew,12/20/11,127125816525066241,glassmanamanda,,,false,discusses,false,false,false
+174,Stew,12/20/11,127106854949105666,_lailak_,,,false,discusses,false,true,false
+175,Stew,12/20/11,126144363154780161,UNMCogNeuro,,,false,agreesWith,false,false,true
+176,Stew,12/20/11,128985905376673793,trgearhart,,,false,agreesWith,false,false,true
+177,Stew,12/20/11,123732875819491329,madhatter_xam,,,false,discusses,true,false,false
+178,Stew,12/20/11,120926650102853632,hey_ghis,,,false,discusses,false,false,false
+179,Stew,12/20/11,120249370024230912,mmykim,,,false,agreesWith,false,false,true
+180,openscience,12/20/11,121656652167524352,favilar,,,false,discusses,false,false,true
+181,LizNeeley,12/20/11,127700968694489088,okaimono39,,,false,discusses,false,false,true
+182,LizNeeley,12/20/11,128918572616523776,SebValenz,,,false,discusses,false,false,false
+183,LizNeeley,12/20/11,130131985925541889,mr_ganocoffee,,,false,agreesWith,false,false,false
+184,LizNeeley,12/20/11,130003649417060355,moyamoyagarden,,,false,discusses,false,false,true
+185,LizNeeley,12/20/11,129550826149642240,PatchRox,,,false,discusses,false,false,true
+186,LizNeeley,12/20/11,129523190153232385,robbouk9,,,false,discusses,false,false,true
+187,LizNeeley,12/20/11,128946445935050752,LaraPizzorno,,,false,discusses,false,false,true
+188,LizNeeley,12/20/11,123760299621879809,dirtyedgemed,,,false,discusses,false,false,true
+189,LizNeeley,12/20/11,124626083776700416,shhh530,,,false,discusses,false,false,false
+190,LizNeeley,12/20/11,126789502437036032,CharlieBio,,,false,discusses,false,false,true
+191,mfenner,01/05/12,121656652167524352,favilar,false,Medicine &amp; Health,false,discusses,false,false,true
+192,mfenner,01/05/12,126951644071071744,christianmunthe,false,Earth Sciences,false,discusses,false,false,true
+193,mfenner,01/05/12,129252594806824963,GenomicsIo,false,Medicine &amp; Health,false,discusses,false,false,false
+194,mfenner,01/05/12,121242030138597377,thejns,false,Medicine &amp; Health,true,discusses,false,false,false
+195,mfenner,12/20/11,124488164407648256,carinap,,,false,discusses,false,false,true
+196,mfenner,01/05/12,129296820722614273,AlysonHypnotik1,false,Physics &amp; Astronomy,false,discusses,false,false,true
+197,mfenner,12/20/11,125690332594704385,shugod,,,false,discusses,false,false,false
+198,mfenner,01/05/12,124159013398130689,mcseto,false,Other,false,discusses,false,false,true
+199,mfenner,01/05/12,126221698671452160,renelaennec,false,Other,false,discusses,false,false,false
+200,mfenner,01/05/12,129195649391525888,thepcrcompany,false,Life Sciences,false,discusses,false,false,false
+201,mfenner,12/20/11,121920754173489152,emeraldent,,,false,discusses,true,false,false
+202,mfenner,12/20/11,130740017218854912,Chris_Evelo,,,false,discusses,false,false,false
+203,mfenner,01/05/12,130280886066356225,hmpharmacon,false,Medicine &amp; Health,false,discusses,true,false,false
+204,mfenner,01/05/12,126804048727912448,healthpolicygrp,false,Medicine &amp; Health,false,discusses,false,false,false
+205,mfenner,12/21/11,125280404541419521,tomheston,,,false,discusses,true,false,false
+206,mfenner,01/05/12,127106854949105666,_lailak_,false,Life Sciences,false,discusses,false,false,true
+207,science3point0,12/21/11,127065806696751104,tiscar,,,false,discusses,false,false,false
+208,science3point0,12/21/11,127030578250915840,David_S_Bristol,,,false,agreesWith,false,false,false
+209,science3point0,12/21/11,126673388201721857,m_m_campbell,,,false,discusses,false,false,true
+210,carusb,12/21/11,120095393110437888,langermarkus,,,false,discusses,false,false,false
+211,carusb,12/21/11,120090626221019136,stti,,,true,discusses,false,false,false
+212,carusb,12/21/11,119932215000969217,abidanfranco,,,false,agreesWith,false,false,false
+213,carusb,12/21/11,120943709457096704,jennifernuzzo,,,false,discusses,false,false,true
+214,carusb,12/21/11,120853137270644736,scitechcurator,,,false,discusses,false,false,false
+215,carusb,12/21/11,120661741247008768,slade37,,,false,discusses,false,false,true
+216,carusb,12/21/11,120620031464849408,dreddvm,,,false,discusses,false,false,false
+217,carusb,12/21/11,121560437543272448,lucozadeinsider,,,false,discusses,false,true,false
+218,carusb,12/21/11,121526759589023745,anxietynews,,,false,discusses,false,false,false
+219,carusb,12/21/11,121496102708060160,theatavism,,,false,discusses,false,false,false
+220,carusb,12/21/11,121341877550186496,fiainros,,,false,discusses,false,false,false
+221,rmounce,12/21/11,120063177026322432,womenwhowine,,,false,discusses,false,false,false
+222,rmounce,12/21/11,119932718426492928,theplantjournal,,,true,discusses,false,false,false
+223,rmounce,12/21/11,120067699261964288,openpgx,,,false,discusses,false,false,false
+224,carusb,12/21/11,121253443611525120,maryheston,,,false,discusses,false,false,false
+225,rmounce,12/21/11,121887543791857664,rafaelmorales53,,,false,discusses,false,false,true
+226,carusb,12/21/11,122059189504835584,pamj84,,,false,discusses,false,false,false
+227,rmounce,12/21/11,121811259107717120,brunovdc,,,false,discusses,false,false,false
+228,rmounce,12/21/11,121718359418077184,ianrobinson,,,false,discusses,false,false,false
+229,carusb,12/21/11,121978665738321920,pattrepanier,,,true,agreesWith,false,false,true
+230,carusb,12/21/11,121963944217808897,miloumenard,,,false,discusses,false,false,false
+231,rmounce,12/21/11,121715602267189248,principevlad201,,,false,discusses,false,false,true
+232,rmounce,12/21/11,121695040069316608,sounds_science,,,false,discusses,false,false,true
+233,carusb,12/21/11,121927974567149569,chadthomasmp,,,true,discusses,false,false,false
+234,rmounce,12/21/11,121670365436067841,rogerdjones1,,,false,discusses,false,false,true
+235,rmounce,12/21/11,121663877099429888,global_network,,,false,discusses,false,false,false
+236,rmounce,12/21/11,121622639843344385,jintyg51,,,false,discusses,false,false,false
+237,rmounce,12/21/11,121565784928555008,bachinsky,,,false,discusses,false,false,true
+238,rmounce,12/21/11,122002275077079040,chris_p_silva,,,false,discusses,false,false,false
+239,carusb,12/21/11,121565784928555008,bachinsky,,,false,discusses,false,false,true
+240,rmounce,12/21/11,123454824619585537,leylandp,,,false,discusses,false,false,false
+241,rmounce,12/21/11,123447589747163136,azizdash,,,false,agreesWith,false,false,false
+242,carusb,12/21/11,122432982110846976,dperezalvarez,,,true,discusses,false,false,false
+243,rmounce,12/21/11,123434539711344640,AJCOonline,,,true,discusses,false,false,false
+244,rmounce,12/21/11,123425641247944705,n_nayani,,,false,discusses,false,false,false
+245,rmounce,12/21/11,123413221204951040,aidsandbehavior,,,true,discusses,false,false,false
+246,carusb,12/21/11,122430020038828032,hslowerbackpain,,,false,discusses,false,false,true
+247,rmounce,12/21/11,123398414644944896,ozgunemrecan,,,false,discusses,false,false,false
+248,rmounce,12/21/11,123371028847144960,riktacken,,,false,discusses,true,false,false
+249,rmounce,12/21/11,123359874137600000,age_and_ageing,,,true,discusses,false,false,false
+250,rmounce,12/21/11,123351081983033344,biochemnews,,,false,discusses,true,false,true
+251,carusb,12/21/11,122330751348908032,thomasichim,,,false,agreesWith,false,false,true
+252,rmounce,12/21/11,123327805781049344,plants_pcu_uct,,,false,discusses,false,false,false
+253,rmounce,12/21/11,123317145999376384,andrewichert,,,false,discusses,false,false,true
+254,rmounce,12/21/11,123314681032081408,fetopen,,,false,discusses,false,false,false
+255,rmounce,12/21/11,123228808714264576,JDBP_online,,,true,discusses,false,false,false
+256,rmounce,12/21/11,123194548116652034,cardiologiaf,,,false,discusses,false,false,false
+257,rmounce,12/21/11,123106848801959937,cellbiologynews,,,false,discusses,false,false,true
+258,rmounce,12/21/11,123050740833992704,srisatish,,,false,disagreesWith,true,false,false
+259,rmounce,12/21/11,123040246341439488,julietalionetti,,,false,discusses,false,true,true
+260,rmounce,12/21/11,121023183221559297,megasimplediet,,,false,discusses,false,false,false
+261,rmounce,12/21/11,120984963632992256,jcammm,,,false,discusses,false,false,false
+262,rmounce,12/21/11,120971409714458624,eathealthyinfo,,,false,discusses,false,false,false
+263,rmounce,12/21/11,120886855347613697,antibody_news,,,false,discusses,false,false,false
+264,rmounce,12/21/11,120609621542043648,corbinsheart,,,false,discusses,false,false,false
+265,rmounce,12/21/11,120339595798921216,usmleschool,,,false,discusses,false,false,false
+266,rmounce,12/21/11,120208801881260032,maryheston,,,false,discusses,false,false,true
+267,rmounce,12/21/11,124280223570214912,wileyenergy,,,true,discusses,false,false,false
+268,rmounce,12/21/11,124276856915640321,IRAupdates,,,false,discusses,false,false,false
+269,rmounce,12/21/11,124273217379635200,why_we_do_that,,,false,discusses,false,false,false
+270,rmounce,12/21/11,124241975120625664,elsevierbiofuel,,,true,discusses,false,false,false
+271,rmounce,12/21/11,124226467860193281,diabeter,,,false,discusses,false,false,false
+272,rmounce,12/21/11,124208730228277248,hope_sports,,,false,discusses,false,false,false
+273,rmounce,12/21/11,124197070201569280,qivana_health,,,false,discusses,false,false,true
+274,rmounce,12/21/11,124184132589850624,jaschahoffman,,,true,discusses,false,false,false
+275,rmounce,12/21/11,124162785788694528,kookyideas,,,false,discusses,false,false,true
+276,rmounce,12/21/11,124161116657041408,cathyndavidson,,,false,discusses,false,false,true
+277,rmounce,12/21/11,124158413277114368,brembs,,,false,discusses,false,false,false
+278,rmounce,12/21/11,124146206556438528,4Hypertension,,,false,discusses,false,false,false
+279,rmounce,12/21/11,124145915375267840,licorbio,,,false,discusses,true,false,false
+280,rmounce,12/21/11,124186484856201216,dgauche,,,false,discusses,false,false,true
+281,mfenner,12/21/11,123220535428653057,ditahov,true,,false,discusses,false,false,false
+282,mfenner,12/21/11,126084050401230849,cruisinwithted,true,,false,discusses,false,false,false
+283,mfenner,01/05/12,123740509813481472,nkyhorseman,false,Social Sciences &amp; Economics,false,discusses,false,true,false
+284,mfenner,12/21/11,123549070299111425,billestes10,false,,false,agreesWith,false,false,true
+285,mfenner,01/05/12,124684312246362112,pbaleixo,false,Medicine &amp; Health,false,discusses,false,false,true
+286,mfenner,12/21/11,121220257145815040,orthopaedia,false,,false,discusses,false,true,false
+287,mfenner,01/05/12,124898297595957248,hmsilverman,false,Medicine &amp; Health,false,discusses,false,false,false
+288,mfenner,01/05/12,129554936714366976,isaiahhankel,false,Medicine &amp; Health,false,discusses,false,false,true
+289,carusb,12/21/11,122612254867861504,couragebuilder,false,,false,discusses,false,false,false
+290,carusb,12/21/11,124066779784937474,naturegeosci,false,,true,discusses,false,false,true
+291,carusb,12/21/11,125813320950366208,PregnancyIssues,false,,false,discusses,false,false,false
+292,carusb,12/21/11,128959805766373376,BlackPhysicists,false,,false,discusses,false,false,false
+293,carusb,12/21/11,126440773599240193,BFMedicine,false,,false,discusses,false,false,true
+294,carusb,12/21/11,126720567280803840,tomlecabron,false,,false,agreesWith,false,false,true
+295,carusb,12/21/11,129460998838030337,angeclow,false,,false,discusses,false,false,true
+296,carusb,12/21/11,127710383954862080,Senology,false,,false,discusses,false,false,true
+297,Stew,12/21/11,128824263124856832,K_Sugimoto_Lab,false,,false,discusses,false,false,false
+298,Stew,12/21/11,128303239694254081,action_designer,false,,false,discusses,false,false,false
+299,Stew,12/21/11,123813139132325888,angew_chem,false,,false,discusses,false,false,false
+300,Stew,12/21/11,122293601135886337,carnetherborist,false,,false,discusses,false,false,false
+301,Stew,12/21/11,124514973597708288,api_health,false,,false,discusses,false,false,false
+302,Stew,12/21/11,125036777525346304,kanzaki_sumire,false,,false,discusses,false,false,false
+303,mfenner,01/05/12,123454824619585537,leylandp,false,Earth Sciences,false,discusses,false,false,false
+304,mfenner,12/21/11,128824263124856832,K_Sugimoto_Lab,false,,false,discusses,false,false,false
+305,mfenner,12/21/11,127710383954862080,Senology,false,,false,discusses,false,false,true
+306,mfenner,12/21/11,122612254867861504,couragebuilder,false,,false,discusses,false,false,false
+307,Stew,12/21/11,121656652167524352,favilar,false,,false,discusses,false,false,false
+308,mfenner,01/05/12,121927974567149569,chadthomasmp,false,Life Sciences,false,discusses,false,false,true
+309,Stew,12/21/11,127710383954862080,Senology,false,,false,discusses,false,false,true
+310,mfenner,01/05/12,124276856915640321,IRAupdates,false,Medicine &amp; Health,false,discusses,false,false,false
+311,Stew,12/21/11,125956218547216385,minabird,false,,false,discusses,false,false,true
+312,mfenner,12/21/11,129953004295163904,yeacollective,false,,false,discusses,false,false,false
+313,mem_somerville,12/21/11,128884629934571521,ArmaVirumque,false,,false,discusses,false,false,false
+314,mem_somerville,12/21/11,122952403636068352,transcurve,false,,false,discusses,false,false,false
+315,mem_somerville,12/21/11,126923429575262208,NewMicrobiology,false,,false,discusses,false,false,false
+316,mem_somerville,12/21/11,128946445935050752,LaraPizzorno,false,,false,discusses,false,false,false
+317,mem_somerville,12/21/11,126643038972936192,edyong209,false,,false,discusses,false,false,false
+318,mfenner,01/05/12,126012130481799169,CardiologiaF,false,Chemistry &amp; Materials Science,false,discusses,false,false,true
+319,mfenner,01/05/12,127174534527844353,RtestR,false,Computer Science &amp; Math,false,discusses,true,false,false
+320,carusb,12/21/11,127013205250801665,spaceman60,false,,true,discusses,false,false,false
+321,carusb,12/21/11,123760299621879809,dirtyedgemed,false,,true,discusses,false,true,true
+322,carusb,12/21/11,127406943424880640,genentechnews,false,,true,discusses,false,false,false
+323,mfenner,01/05/12,127250322304413696,Travel_Health,false,Medicine &amp; Health,false,discusses,false,false,false
+324,mfenner,01/05/12,124468909326864385,swsd2012,false,Medicine &amp; Health,false,discusses,false,false,false
+325,mfenner,01/05/12,127413687601475584,amyleerobinson,false,Computer Science &amp; Math,false,discusses,true,false,false
+326,mfenner,01/05/12,128423070762405889,mjpallen,false,Medicine &amp; Health,false,discusses,false,true,false
+327,mfenner,01/05/12,126923429575262208,NewMicrobiology,false,Medicine &amp; Health,false,discusses,false,false,false
+328,mfenner,12/21/11,122952403636068352,transcurve,false,,false,discusses,false,false,false
+329,mfenner,12/22/11,127682645583863808,esmilodonte,false,,false,discusses,false,false,false
+330,mfenner,01/05/12,126323646754062336,GreeneScientist,false,Life Sciences,false,discusses,true,false,false
+331,mfenner,01/04/12,127343650698047488,PedCareonline,false,,true,discusses,false,false,false
+332,mfenner,01/05/12,124226467860193281,diabeter,false,Medicine &amp; Health,false,discusses,false,false,false
+333,mfenner,01/05/12,121232354567131136,tweetingautism,false,Medicine &amp; Health,false,discusses,true,false,false
+334,mfenner,01/05/12,124471384259821568,hopeforremy,false,Earth Sciences,false,discusses,false,false,false
+335,mfenner,01/05/12,125552119343349760,Ecoagri_India,false,Earth Sciences,false,discusses,false,false,true
+336,mfenner,01/05/12,126563812232011776,renelaennec,false,Chemistry &amp; Materials Science,false,discusses,false,false,false
+337,mfenner,01/05/12,124426906383822848,thepcrcompany,false,Life Sciences,false,discusses,false,false,true
+338,mfenner,01/05/12,124859883358130179,EdwardWinstead,false,Life Sciences,false,discusses,false,false,false
+339,mfenner,12/22/11,124655168674463745,droncoped,false,,false,discusses,false,false,true
+340,mfenner,01/05/12,126971358608494592,naborala,false,Other,false,discusses,false,false,false
+341,mfenner,12/22/11,124657003263049728,heptwit,false,,false,discusses,false,false,false
+342,mfenner,01/05/12,127250885893029889,_skyl,false,Medicine &amp; Health,false,agreesWith,false,false,true
+343,mfenner,01/05/12,124186484856201216,dgauche,false,Medicine &amp; Health,false,discusses,false,false,true
+344,mfenner,01/05/12,123434539711344640,AJCOonline,false,Medicine &amp; Health,true,discusses,true,false,false
+345,mfenner,01/05/12,123753064757858304,surgerator,false,Chemistry &amp; Materials Science,false,disagreesWith,true,false,false
+346,sebschmoller,12/23/11,128475359002894337,EmeraldMkting,false,,false,discusses,false,false,false
+347,sebschmoller,12/23/11,129960766676795392,Gastropractice,false,,false,discusses,false,false,false
+348,matteomoci,12/26/11,124790512774422528,arawa5,false,,false,agreesWith,false,false,false
+349,matteomoci,12/26/11,126012191173386240,CardiologiaF,false,,false,discusses,false,false,false
+350,mfenner,01/05/12,129550826149642240,PatchRox,false,Medicine &amp; Health,false,discusses,false,false,true
+351,mfenner,01/05/12,119932718426492928,theplantjournal,false,Life Sciences,true,discusses,true,false,false
+352,mfenner,12/26/11,128658352627650560,sarasteinmd,false,,false,discusses,false,false,true
+353,mfenner,12/26/11,126346307655835648,gastromom,false,,false,discusses,false,false,true
+354,mfenner,01/05/12,126144363154780161,UNMCogNeuro,false,Medicine &amp; Health,false,agreesWith,false,false,true
+355,Nil_Wilson,12/27/11,128697327723626496,Hlth_Literacy,false,,false,discusses,false,false,false
+356,Nil_Wilson,12/27/11,127293974187741184,CVgeneeskunde,false,,false,discusses,false,false,false
+357,Nil_Wilson,12/27/11,124273217379635200,why_we_do_that,false,,false,discusses,false,false,false
+358,Nil_Wilson,12/27/11,128375817939058688,seanhodges1,false,,false,discusses,false,false,false
+359,Nil_Wilson,12/27/11,124139803892658176,peter_tennant,false,,false,discusses,false,false,false
+360,Nil_Wilson,12/27/11,130772710832869378,nanoluis_bastos,false,,false,discusses,false,false,false
+361,Nil_Wilson,12/27/11,127289340568141824,XMRV_GA,false,,false,agreesWith,false,false,false
+362,Nil_Wilson,12/27/11,129156661490360320,NeurologieNoord,false,,false,discusses,false,false,false
+363,Nil_Wilson,01/12/12,128836549923176448,FinolaK,false,,false,discusses,false,false,false
+364,Nil_Wilson,12/27/11,128117249151221760,Parasite_Host,false,,false,discusses,false,false,false
+365,Nil_Wilson,01/07/12,128487531892318208,zuluagajorge,false,,false,discusses,false,false,false
+366,Nil_Wilson,12/27/11,124618353766694912,croakeyblog,false,,false,discusses,false,false,false
+367,Nil_Wilson,12/27/11,129263936297107457,Orthopaedia,false,,false,discusses,false,false,false
+368,Nil_Wilson,12/27/11,125904768815214592,markjonesPT,false,,false,discusses,false,false,false
+369,Nil_Wilson,01/07/12,126242520337367040,usmolecular,false,Medicine &amp; Health,false,discusses,false,false,false
+370,Nil_Wilson,12/27/11,129567155036491777,ThomasHensel,false,,false,discusses,false,false,false
+371,Nil_Wilson,12/27/11,123034950248312832,usmolecular,false,,false,discusses,false,false,false
+372,mfenner,01/05/12,123106848801959937,cellbiologynews,false,Medicine &amp; Health,false,discusses,false,false,true
+373,mfenner,12/27/11,127406943424880640,genentechnews,false,,false,discusses,false,false,true
+374,mfenner,12/27/11,127289340568141824,XMRV_GA,false,,false,agreesWith,false,false,false
+375,mfenner,01/05/12,122430020038828032,hslowerbackpain,false,Medicine &amp; Health,false,discusses,false,false,true
+376,mfenner,01/05/12,120249370024230912,mmykim,false,Medicine &amp; Health,false,agreesWith,false,false,true
+377,mfenner,12/27/11,129156661490360320,NeurologieNoord,false,,false,discusses,false,false,true
+378,mfenner,12/27/11,128946445935050752,LaraPizzorno,false,,false,discusses,false,false,true
+379,mfenner,12/27/11,123398414644944896,ozgunemrecan,false,,false,discusses,false,false,false
+380,EvaAlisic,12/28/11,123314681032081408,fetopen,false,,false,discusses,false,false,false
+381,EvaAlisic,12/28/11,128824263124856832,K_Sugimoto_Lab,false,,false,discusses,false,false,false
+382,EvaAlisic,12/28/11,124408034792452096,JCPjrnl_online,false,,true,discusses,false,false,false
+383,EvaAlisic,12/28/11,124893060361486336,meta_physik,false,,false,discusses,false,false,false
+384,EvaAlisic,12/28/11,129523190153232385,robbouk9,false,,false,discusses,false,false,false
+385,EvaAlisic,12/28/11,130772710832869378,nanoluis_bastos,false,,false,discusses,false,false,false
+386,EvaAlisic,12/28/11,126821388265865216,WileyCompSci,false,,true,discusses,false,false,false
+387,EvaAlisic,12/28/11,122952403636068352,transcurve,false,,false,discusses,false,false,false
+388,EvaAlisic,12/28/11,130037690006646787,ge_parada,false,,false,discusses,false,false,false
+389,EvaAlisic,12/28/11,124167772258320384,rogerdjones1,false,,false,discusses,false,false,false
+390,EvaAlisic,12/28/11,122365987860389888,zajel_bh,false,,false,discusses,false,false,false
+391,EvaAlisic,12/28/11,124580427359993856,testfirst,false,,false,discusses,false,false,true
+392,EvaAlisic,12/28/11,122274383917088768,leoadramos,false,,false,discusses,false,false,false
+393,EvaAlisic,12/28/11,124792507723812864,samjnorton,false,,false,discusses,false,false,false
+394,EvaAlisic,12/28/11,127113971630219264,ImmuneDude,false,,false,discusses,false,false,true
+395,EvaAlisic,12/28/11,127929391773777921,erptc,false,,false,discusses,false,false,false
+396,EvaAlisic,12/28/11,126108976902451200,mariapage,false,,false,discusses,false,false,false
+397,EvaAlisic,12/28/11,124040180725334017,prabprab,false,,false,agreesWith,false,false,true
+398,EvaAlisic,12/28/11,125127291666833410,proofreadinguk,false,,false,discusses,false,false,false
+399,EvaAlisic,12/28/11,129632234297761792,Routledge_PHSC,false,,true,discusses,false,false,false
+400,EvaAlisic,12/28/11,122381281395875842,denisegilmartin,false,,false,discusses,false,false,false
+401,EvaAlisic,12/28/11,124032286021787648,timgluz,false,,false,discusses,false,false,false
+402,EvaAlisic,12/28/11,126266800508899328,HayesHealthNews,false,,false,discusses,false,false,true
+403,EvaAlisic,12/28/11,122334928095559680,LasVegasSkin,false,,false,discusses,false,false,false
+404,EvaAlisic,12/28/11,125969805911138304,jrmoss55,false,,false,discusses,false,false,false
+405,EvaAlisic,12/28/11,122244792162844672,pregnancyissues,false,,false,discusses,true,false,false
+406,EvaAlisic,12/28/11,122270223641493504,14febrevolution,false,,false,discusses,false,false,false
+407,EvaAlisic,12/28/11,129526516437622784,ShockJournal,false,,true,discusses,false,false,false
+408,EvaAlisic,12/28/11,127384809742934016,emilymbadger,false,,false,discusses,false,false,true
+409,EvaAlisic,12/28/11,128745983793311745,psychmag,false,,true,discusses,false,false,false
+410,EvaAlisic,12/28/11,129133428837842944,mlalanda,false,,false,discusses,false,false,false
+411,EvaAlisic,12/28/11,122254520486076416,scicom_bot,false,,false,discusses,false,false,false
+412,EvaAlisic,12/28/11,126354401798520832,GreenJournal,false,,true,discusses,false,false,false
+413,EvaAlisic,12/28/11,128020601557364736,Graham_Kendall,false,,true,discusses,false,false,false
+414,mfenner,12/28/11,125235176908390401,gregory011,false,,false,discusses,false,false,false
+415,mfenner,01/05/12,127198466089816064,cbjones1943,false,Life Sciences,false,discusses,false,false,false
+416,mfenner,01/05/12,120298593801351168,rustlingmama,false,Medicine &amp; Health,false,discusses,false,false,true
+417,mfenner,12/29/11,121715602267189248,principevlad201,false,,false,discusses,false,false,true
+418,mfenner,12/29/11,124219177748791297,JONAonline,false,,true,discusses,false,false,false
+419,mfenner,01/05/12,127813378491170817,CoachCampbell,false,Medicine &amp; Health,false,discusses,false,false,true
+420,mfenner,12/29/11,130370000597946368,dfjpt,false,,false,discusses,false,true,false
+421,mfenner,01/06/12,129632234297761792,Routledge_PHSC,false,Social Sciences &amp; Economics,false,discusses,false,false,false
+422,GinnyBarbour,12/31/11,125926970205802496,Journalologist,false,,false,discusses,false,false,false
+423,GinnyBarbour,12/31/11,123159607156809728,ncdchild,false,,false,discusses,false,false,false
+424,GinnyBarbour,12/31/11,125936642077888512,medlinksolution,false,,false,discusses,false,false,false
+425,GinnyBarbour,12/31/11,125953970152808449,DrVes,false,,false,discusses,false,false,false
+426,GinnyBarbour,12/31/11,128262940745932802,skonkiel,false,,false,discusses,false,false,false
+427,GinnyBarbour,12/31/11,129016628007542784,pvo1reuma,false,,false,agreesWith,false,false,false
+428,GinnyBarbour,12/31/11,122144513031544832,sagrudd,false,,false,discusses,false,false,false
+429,GinnyBarbour,12/31/11,123509155892957184,kcarlbot,false,,false,discusses,false,false,false
+430,GinnyBarbour,12/31/11,125380583919583232,ariaguideline,false,,false,discusses,false,false,false
+431,GinnyBarbour,12/31/11,125755597332287490,PopiSunga,false,,false,agreesWith,false,false,false
+432,GinnyBarbour,12/31/11,129447135002378240,ZuhaiRaliAlhaG,false,,false,agreesWith,false,false,false
+433,GinnyBarbour,12/31/11,125700102672236545,megasimplediet,false,,false,discusses,false,false,false
+434,GinnyBarbour,12/31/11,126860088936902656,pristinepeak,false,,false,discusses,false,false,false
+435,GinnyBarbour,12/31/11,124534846965030912,_josh_cox_,false,,false,discusses,false,false,false
+436,GinnyBarbour,12/31/11,124016535449767936,ibis_journal,false,,true,discusses,false,false,false
+437,GinnyBarbour,12/31/11,124114860651986945,azhoka77,true,,false,discusses,false,false,false
+438,GinnyBarbour,12/31/11,127417111915143169,BrownJosephW,false,,false,agreesWith,false,false,false
+439,GinnyBarbour,12/31/11,128655160951046144,luna12780,false,,false,discusses,false,false,false
+440,GinnyBarbour,12/31/11,125327035064258560,JofOrthoTrauma,false,,true,discusses,false,false,false
+441,GinnyBarbour,12/31/11,121140310570041344,mariapage,false,,false,discusses,false,false,false
+442,kristiholmes,12/31/11,129628694670082048,Undertow851RSS,false,,false,discusses,false,false,false
+443,kristiholmes,12/31/11,129139123658297344,moebius31,false,,false,discusses,false,false,false
+444,kristiholmes,12/31/11,129387286218551298,YaenoT,false,,false,discusses,false,false,true
+445,kristiholmes,12/31/11,123738964095016962,Raymondgho,false,,false,discusses,false,false,false
+446,kristiholmes,12/31/11,126975209487073280,AnestesiaF,false,,false,discusses,false,false,false
+447,mfenner,12/31/11,128117249151221760,Parasite_Host,false,,false,discusses,false,false,false
+448,mfenner,12/31/11,126354401798520832,GreenJournal,false,,false,discusses,false,false,false
+449,mfenner,12/31/11,129697052643950592,tdevaul,false,,false,discusses,false,false,true
+450,mfenner,01/05/12,126266800508899328,HayesHealthNews,false,Medicine &amp; Health,false,discusses,false,false,true
+451,mfenner,12/31/11,127293974187741184,CVgeneeskunde,false,,false,discusses,false,true,false
+452,mfenner,01/05/12,124551051222327296,Montagist,false,Medicine &amp; Health,false,discusses,false,false,false
+453,mfenner,01/05/12,123498443741208576,anaisaflores,false,Social Sciences &amp; Economics,false,discusses,false,false,false
+454,mfenner,12/31/11,129418155507453952,BraveNewClimate,false,,false,discusses,false,true,false
+455,mfenner,01/05/12,129936328929460224,RogerDJones1,false,Medicine &amp; Health,false,discusses,false,false,true
+456,mfenner,01/05/12,125953970152808449,DrVes,false,Medicine &amp; Health,false,discusses,false,false,true
+457,mfenner,12/31/11,124792507723812864,samjnorton,false,,false,discusses,false,false,false
+458,mfenner,01/05/12,123050740833992704,srisatish,false,Medicine &amp; Health,false,disagreesWith,true,false,false
+459,mfenner,01/05/12,122330751348908032,thomasichim,false,Medicine &amp; Health,false,agreesWith,false,false,true
+460,mfenner,01/05/12,125239214462877697,antrocomonlus,false,Life Sciences,false,discusses,false,false,false
+461,mfenner,01/06/12,127372358959898624,Surglap,false,Medicine &amp; Health,false,discusses,false,false,false
+462,mfenner,01/05/12,125056492515770368,psychepi,false,Medicine &amp; Health,false,disagreesWith,true,false,false
+463,mfenner,12/31/11,126779069487525888,VicLJ,false,,false,discusses,false,false,true
+464,mfenner,12/31/11,124510939117662208,amilli6,false,,false,discusses,false,false,false
+465,mfenner,01/05/12,129921385035350016,smalljournal,false,Physics &amp; Astronomy,true,discusses,true,false,false
+466,mfenner,12/31/11,126462604834119680,lunge_zh,false,,false,discusses,false,false,false
+467,GinnyBarbour,01/01/12,121225356194746368,jpjsavage,false,,false,discusses,false,false,false
+468,GinnyBarbour,01/01/12,128870577468481536,brain_spine,false,,false,discusses,false,false,false
+469,GinnyBarbour,01/01/12,123456276360462336,JCATonline,false,,true,discusses,false,false,false
+470,GinnyBarbour,01/01/12,126760973800443904,555CaliforniaSt,false,,false,discusses,false,false,false
+471,GinnyBarbour,01/01/12,126728216835661824,lizabio,false,,true,discusses,false,false,false
+472,GinnyBarbour,01/01/12,128137382204682240,micro_biome,false,,false,discusses,false,false,false
+473,GinnyBarbour,01/01/12,122357558135619584,ebnursingbmj,false,,true,discusses,false,false,false
+474,Stew,01/01/12,125056492515770368,psychepi,false,,false,disagreesWith,false,false,false
+475,Stew,01/01/12,122330751348908032,thomasichim,false,,false,discusses,false,false,true
+476,Stew,01/01/12,126779069487525888,VicLJ,false,,false,discusses,false,false,true
+477,Stew,01/01/12,124510939117662208,amilli6,false,,false,discusses,false,false,false
+478,Stew,01/01/12,125239214462877697,antrocomonlus,false,,false,discusses,false,false,false
+479,Stew,01/01/12,127372358959898624,Surglap,false,,false,discusses,false,false,false
+480,Stew,01/01/12,122612254867861504,couragebuilder,false,,false,discusses,false,false,false
+481,Stew,01/01/12,123050740833992704,srisatish,false,,false,disagreesWith,true,false,false
+482,Stew,01/01/12,121923491221082112,razz0r,false,,false,discusses,false,false,false
+483,Stew,01/01/12,129921385035350016,smalljournal,false,,true,discusses,false,false,false
+484,Stew,01/01/12,125953970152808449,DrVes,false,,false,discusses,false,false,true
+485,Stew,01/01/12,129936328929460224,RogerDJones1,false,,false,discusses,false,false,true
+486,Stew,01/01/12,129418155507453952,BraveNewClimate,false,,false,discusses,false,false,true
+487,Stew,01/01/12,123498443741208576,anaisaflores,false,,false,discusses,false,false,false
+488,Stew,01/01/12,126055513476706305,helena_vidaurri,false,,false,discusses,false,false,true
+489,Stew,01/01/12,127293974187741184,CVgeneeskunde,false,,false,discusses,false,true,false
+490,Stew,01/01/12,126266800508899328,HayesHealthNews,false,,false,discusses,false,true,false
+491,Stew,01/01/12,123398414644944896,ozgunemrecan,false,,false,discusses,false,false,false
+492,Stew,01/01/12,129697052643950592,tdevaul,false,,false,discusses,false,false,false
+493,Stew,01/01/12,128117249151221760,Parasite_Host,false,,false,discusses,false,false,false
+494,Stew,01/01/12,127250885893029889,_skyl,false,,false,agreesWith,false,true,false
+495,Stew,01/01/12,126462604834119680,lunge_zh,false,,false,discusses,false,false,false
+496,Stew,01/01/12,120933285873463297,sophs37,false,,false,discusses,false,false,false
+497,Stew,01/01/12,121177812936822784,hlth_literacy,false,,false,discusses,false,false,false
+498,Stew,01/01/12,124669047408308224,couragebuilder,false,,false,discusses,false,false,false
+499,Stew,01/01/12,124534846965030912,_josh_cox_,false,,false,discusses,false,false,false
+500,Stew,01/01/12,121633960089489408,rblumel,false,,false,agreesWith,false,false,true
+501,Stew,01/01/12,129252594806824963,GenomicsIo,false,,false,agreesWith,false,false,false
+502,Stew,01/01/12,121887543791857664,rafaelmorales53,false,,false,discusses,false,false,true
+503,Stew,01/01/12,126673388201721857,m_m_campbell,false,,false,discusses,false,false,true
+504,Stew,01/01/12,124280223570214912,wileyenergy,false,,true,discusses,false,false,false
+505,Stew,01/01/12,122270223641493504,14febrevolution,false,,false,discusses,false,false,false
+506,Stew,01/01/12,123812468089819137,mittpss,false,,false,discusses,false,false,false
+507,Stew,01/01/12,128941200509108224,DrSusanneFarwer,false,,false,discusses,false,false,false
+508,Stew,01/01/12,120943709457096704,jennifernuzzo,false,,false,discusses,false,false,true
+509,Stew,01/01/12,123522218092265472,CardiologiaF,false,,false,discusses,false,false,false
+510,Stew,01/01/12,127098007782035456,TAWOP,false,,false,discusses,false,false,false
+511,Stew,01/01/12,123890483129880577,rogerdjones1,false,,false,discusses,false,false,true
+512,Stew,01/01/12,128083840106369024,EsdeGroot,false,,false,discusses,false,false,true
+513,Stew,01/01/12,121526759589023745,anxietynews,false,,false,discusses,false,false,false
+514,Stew,01/01/12,128836845957169153,mjpallen,false,,false,discusses,false,false,false
+515,Stew,01/01/12,129390712356749312,ChristosArgyrop,false,,false,discusses,false,false,false
+516,Stew,01/01/12,123289316381294593,markgreene74,false,,false,discusses,false,false,false
+517,Stew,01/01/12,124796611044978688,why_we_do_that,false,,false,discusses,false,false,false
+518,Stew,01/01/12,121927974567149569,chadthomasmp,false,,false,discusses,false,false,true
+519,Stew,01/01/12,120095393110437888,langermarkus,false,,false,discusses,false,false,false
+520,Stew,01/01/12,124022673079676928,josebengoechea,false,,false,discusses,false,true,false
+521,Stew,01/01/12,123228808714264576,JDBP_online,false,,false,discusses,false,false,false
+522,Stew,01/01/12,129424789956853760,ttphobia,false,,false,discusses,false,false,true
+523,Stew,01/01/12,124798836815310848,esratubamutlu,false,,false,discusses,false,false,false
+524,Stew,01/01/12,123507227209383936,enthouse,false,,false,disagreesWith,false,false,true
+525,Stew,01/01/12,127814480355790848,talulinha,false,,false,discusses,false,false,false
+526,Stew,01/01/12,128501196238503936,Why_We_Do_That,false,,false,discusses,false,false,false
+527,Stew,01/01/12,126443022689910784,UrbanFarminGirl,false,,true,discusses,false,false,false
+528,Stew,01/01/12,122115416830128128,cordovaresearch,false,,false,discusses,false,false,false
+529,Stew,01/01/12,124328837969477633,juancivancevich,false,,false,discusses,false,false,false
+530,Stew,01/01/12,124522405245882368,promega,false,,false,discusses,false,false,false
+531,Stew,01/01/12,125600317873197056,tiempoasm,false,,false,discusses,false,false,false
+532,Stew,01/01/12,127929380705017856,eastriverrunner,false,,false,discusses,false,false,false
+533,Stew,01/01/12,124421269444763648,mabur,false,,false,discusses,true,false,false
+534,Stew,01/01/12,124839266214887424,rons_rov_links,false,,false,discusses,false,false,false
+535,Stew,01/01/12,128933483765702656,SeifBourogaa,false,,false,discusses,false,false,false
+536,Stew,01/01/12,128580816522575872,marchenina,false,,false,discusses,false,false,false
+537,Stew,01/01/12,127706456094027776,nil_by,false,,false,discusses,false,false,true
+538,Stew,01/01/12,123577727503699969,blackphysicists,false,,false,discusses,false,false,false
+539,Stew,01/01/12,124365778433740801,drkimholt,false,,false,agreesWith,false,false,false
+540,Stew,01/01/12,128874792681082880,edbites,false,,false,discusses,false,false,false
+541,Stew,01/01/12,126413440066662400,bankstowngp,false,,false,discusses,false,false,false
+542,Stew,01/01/12,126689210534076418,Mike_Az44,false,,false,discusses,false,false,false
+543,Stew,01/01/12,121198060889063424,lbxat,false,,false,discusses,false,false,false
+544,Stew,01/01/12,123759826126913537,satan_from_hell,false,,false,discusses,false,false,false
+545,Stew,01/01/12,122841471865991170,CardiologiaF,false,,false,discusses,false,false,false
+546,Stew,01/01/12,126767659076435970,ovicornel,false,,false,discusses,false,false,false
+547,Stew,01/01/12,129252414321721344,FabyJimenezR,false,,false,discusses,false,false,false
+548,Stew,01/01/12,129424448095911936,_medjournal,false,,false,discusses,false,false,false
+549,Stew,01/01/12,129628778157719552,topbiopapers,false,,false,discusses,false,false,false
+550,Stew,01/01/12,125465158314233856,ndenk_renny,false,,false,discusses,false,false,false
+551,Stew,01/01/12,127265559522979840,Botanical_,false,,false,discusses,false,false,false
+552,Stew,01/01/12,127370386802352130,sraosha,false,,false,discusses,false,false,true
+553,Stew,01/01/12,125576750817214464,MicrobiologyNet,false,,false,discusses,false,false,false
+554,Stew,01/01/12,123836568493490176,ericmjohnson,false,,false,discusses,false,false,false
+555,Stew,01/01/12,129876588341899264,CECLibrary,false,,false,discusses,false,false,false
+556,Stew,01/01/12,128062959892185089,DanAltic,false,,false,discusses,false,false,false
+557,Stew,01/01/12,128140668928405504,prince_hakeeem,false,,false,discusses,false,false,false
+558,Stew,01/01/12,123665011288702976,lstmjournals,false,,false,discusses,false,false,false
+559,Stew,01/01/12,127033515819794432,gwbled,false,,false,discusses,false,false,false
+560,Stew,01/01/12,126988033441538048,ThePostsynaptic,false,,false,discusses,false,false,false
+561,Stew,01/01/12,122298903289790464,competia,false,,false,discusses,false,false,false
+562,Stew,01/01/12,125205352898768896,alitimumab,false,,false,discusses,false,false,false
+563,Stew,01/01/12,125670453875458048,SocLatAlergia,false,,false,discusses,false,false,false
+564,Stew,01/01/12,126321897418932224,CellLine2012,false,,false,discusses,false,false,false
+565,Stew,01/01/12,127703821676838912,GreenGuideUK,false,,false,discusses,false,false,false
+566,Stew,01/01/12,121204591512662016,peteharlan,false,,false,discusses,false,false,false
+567,Stew,01/01/12,128028520977932289,bedlamfury,false,,false,discusses,false,false,false
+568,Stew,01/01/12,125602285396049921,rrvaughan05,false,,false,discusses,false,false,false
+569,Stew,01/01/12,123788395242725377,domkane,false,,false,discusses,false,false,true
+570,Stew,01/01/12,128477064511766529,zuluagajorge,false,,false,discusses,false,false,false
+571,Stew,01/01/12,124082377143230464,alexandrend,false,,false,discusses,false,false,false
+572,Stew,01/01/12,122334865185181697,jenarofv_md,false,,false,discusses,false,false,false
+573,Stew,01/01/12,123506007526744064,hep_info,false,,false,discusses,false,false,false
+574,Stew,01/01/12,127360602371915776,speechieLO,false,,false,discusses,false,false,false
+575,Stew,01/01/12,125856062099292161,ayeimanol,false,,false,discusses,false,false,false
+576,Stew,01/01/12,129902996606816256,ccace_andy,false,,false,discusses,false,false,false
+577,Stew,01/01/12,121352659147034624,pristinepeak,false,,false,discusses,false,false,false
+578,Stew,01/01/12,128210290918694912,stopbackache,false,,false,discusses,false,false,false
+579,Stew,01/01/12,127596771949031425,toxipal,false,,false,discusses,false,false,false
+580,Stew,01/01/12,125208717930151936,medieduc,false,,false,discusses,false,false,false
+581,Stew,01/01/12,123575132852731906,walker_md,false,,false,discusses,false,false,true
+582,Stew,01/01/12,126640959332159488,Thafstad,false,,false,discusses,false,false,false
+583,Stew,01/01/12,127528565657964544,ReadSLL,false,,false,discusses,false,false,false
+584,Stew,01/01/12,126390507617255424,ArgosNeurosci,false,,false,discusses,false,false,false
+585,Stew,01/01/12,127338626722959360,fibroaction,false,,false,discusses,false,false,false
+586,Stew,01/01/12,126987447002341376,Risalavizzo,false,,false,discusses,false,false,true
+587,Stew,01/01/12,124124113945112576,ISS_DietarySupp,false,,false,discusses,false,false,false
+588,Stew,01/01/12,125323651099795456,hotzkotz,false,,false,discusses,false,false,false
+589,Stew,01/01/12,128529951589797888,tcellbiology,false,,false,discusses,false,false,false
+590,Stew,01/01/12,127392196075859969,MartinFelixR,false,,false,discusses,false,false,false
+591,Elissa_Malcohn,01/01/12,127397326313627648,GaBioscience,false,,false,discusses,false,false,false
+592,Elissa_Malcohn,01/01/12,123547877602639872,GinaSelir,false,,false,discusses,false,false,false
+593,Elissa_Malcohn,01/01/12,129548831242199040,allison_lang,false,,false,agreesWith,false,false,false
+594,Elissa_Malcohn,01/01/12,121526743575175168,anxietynews,false,,false,discusses,false,false,false
+595,Elissa_Malcohn,01/01/12,128801895656587264,MichaelMDowling,false,,false,discusses,false,false,false
+596,Elissa_Malcohn,01/01/12,121323728276701184,hlth_literacy,false,,false,discusses,false,false,false
+597,Elissa_Malcohn,01/01/12,127127040225837056,HIV_Insight,false,,false,discusses,false,false,false
+598,Elissa_Malcohn,01/01/12,128091457969074177,_medjournal,false,,false,discusses,false,false,false
+599,Elissa_Malcohn,01/01/12,125152020972830720,anestesiaf,false,,false,discusses,false,false,false
+600,Elissa_Malcohn,01/01/12,124887113249464320,craigharper19,false,,false,discusses,false,false,false
+601,Elissa_Malcohn,01/01/12,126618815126716416,AfricaDoctors,false,,false,discusses,false,false,false
+602,Elissa_Malcohn,01/01/12,123456473366933505,ppgeufpb_,false,,false,discusses,false,false,false
+603,Elissa_Malcohn,01/01/12,124731489626763264,mariejhill,false,,false,discusses,false,false,false
+604,Elissa_Malcohn,01/01/12,121237741840252928,jack_cmh,false,,false,discusses,false,false,false
+605,Elissa_Malcohn,01/01/12,123516255733944320,EngsoYouth,false,,false,discusses,false,false,false
+606,skairam,01/01/12,126144363154780161,UNMCogNeuro,false,,false,discusses,false,false,true
+607,skairam,01/01/12,124328837969477633,juancivancevich,false,,false,discusses,false,false,false
+608,Stew,01/02/12,129548831242199040,allison_lang,false,,false,discusses,false,false,false
+609,Stew,01/02/12,125949455211044864,notimetoteach,false,,false,discusses,false,false,false
+610,phylogenomics,01/02/12,126673388201721857,m_m_campbell,false,,false,discusses,false,false,false
+611,phylogenomics,01/02/12,129823048055533568,rickabbgotit,false,,false,discusses,false,false,false
+612,e__mendenhall,01/02/12,126055513476706305,helena_vidaurri,false,,false,discusses,false,false,true
+613,mfenner,01/05/12,128985905376673793,trgearhart,false,Medicine &amp; Health,false,discusses,false,false,false
+614,mfenner,01/05/12,128979997804343296,ARIAGuideline,false,Medicine &amp; Health,false,discusses,false,false,false
+615,mfenner,01/02/12,123359874137600000,age_and_ageing,false,,true,discusses,false,false,false
+616,mfenner,01/05/12,128870577468481536,brain_spine,false,Earth Sciences,false,discusses,false,false,false
+617,mfenner,01/05/12,122144513031544832,sagrudd,false,Life Sciences,false,discusses,true,false,false
+618,mfenner,01/05/12,122274383917088768,leoadramos,false,Medicine &amp; Health,false,discusses,true,false,false
+619,mfenner,01/02/12,122381281395875842,denisegilmartin,false,,false,discusses,false,false,false
+620,mfenner,01/05/12,128937495944626176,CEP_Rachel,false,Social Sciences &amp; Economics,false,discusses,false,false,false
+621,mfenner,01/02/12,128874792681082880,edbites,false,,false,discusses,false,false,false
+622,mfenner,01/02/12,128863061745475586,pabigui,false,,false,agreesWith,false,false,false
+623,mfenner,01/05/12,123040246341439488,julietalionetti,false,Physics &amp; Astronomy,false,discusses,false,true,false
+624,mfenner,01/02/12,128241606510903296,MorelandHall,false,,false,agreesWith,false,false,false
+625,mfenner,01/05/12,127751880137908225,pritichilhal,false,Medicine &amp; Health,false,discusses,false,false,false
+626,mfenner,01/05/12,128210290918694912,stopbackache,false,Medicine &amp; Health,false,discusses,false,false,true
+627,mfenner,01/05/12,121341877550186496,fiainros,false,Life Sciences,false,discusses,true,false,false
+628,mfenner,01/03/12,123351081983033344,biochemnews,false,,false,agreesWith,false,false,true
+629,mfenner,01/03/12,126227856408850432,ahenotri,false,,false,discusses,false,false,false
+630,mfenner,01/05/12,126860088936902656,pristinepeak,false,Life Sciences,false,discusses,true,false,false
+631,mfenner,01/03/12,124618353766694912,croakeyblog,false,,false,discusses,false,false,true
+632,mfenner,01/03/12,127122472939167744,CO_Anesthesiol,false,,true,discusses,false,false,false
+633,sokolokot,01/03/12,125576750817214464,MicrobiologyNet,false,,false,discusses,false,false,false
+634,sokolokot,01/03/12,123327805781049344,plants_pcu_uct,false,,false,discusses,false,false,false
+635,sokolokot,01/03/12,128824263124856832,K_Sugimoto_Lab,false,,false,discusses,false,false,false
+636,sokolokot,01/03/12,127392196075859969,MartinFelixR,false,,false,discusses,false,false,false
+637,sokolokot,01/03/12,130760381336530945,dorianyoung78,false,,false,discusses,false,false,false
+638,sokolokot,01/03/12,127198466089816064,cbjones1943,false,,false,discusses,false,false,false
+639,sokolokot,01/03/12,128117249151221760,Parasite_Host,false,,false,discusses,false,false,false
+640,sokolokot,01/03/12,128884629934571521,ArmaVirumque,false,,false,discusses,false,false,false
+641,sokolokot,01/03/12,120984963632992256,jcammm,false,,false,discusses,false,false,false
+642,sokolokot,01/03/12,125552119343349760,Ecoagri_India,false,,false,discusses,false,false,true
+643,sokolokot,01/03/12,124161116657041408,cathyndavidson,false,,false,discusses,false,false,true
+644,sokolokot,01/03/12,120249370024230912,mmykim,false,,false,agreesWith,false,false,true
+645,sokolokot,01/03/12,123398414644944896,ozgunemrecan,false,,false,discusses,false,false,false
+646,sokolokot,01/03/12,129823048055533568,rickabbgotit,false,,false,discusses,false,false,false
+647,sokolokot,01/03/12,126323646754062336,GreeneScientist,false,,false,discusses,true,false,false
+648,sokolokot,01/03/12,125127291666833410,proofreadinguk,false,,false,discusses,false,false,false
+649,sokolokot,01/03/12,126689210534076418,Mike_Az44,false,,false,discusses,false,false,false
+650,sokolokot,01/03/12,125919997469011969,sciencemagazine,false,,false,discusses,false,false,true
+651,sokolokot,01/03/12,124158413277114368,brembs,false,,false,discusses,false,false,false
+652,sokolokot,01/03/12,122841471865991170,CardiologiaF,false,,false,discusses,false,false,false
+653,sokolokot,01/03/12,127682645583863808,esmilodonte,false,,false,discusses,false,false,false
+654,sokolokot,01/03/12,130157170925899776,renelaennec,false,,false,agreesWith,false,false,true
+655,sokolokot,01/03/12,130740017218854912,Chris_Evelo,false,,false,discusses,false,false,false
+656,evolcoop,01/03/12,127408763056553984,politixgirl,false,,false,discusses,false,false,true
+657,dullhunk,01/04/12,124839266214887424,rons_rov_links,false,,false,discusses,false,false,false
+658,dullhunk,01/04/12,127710383954862080,Senology,false,,false,discusses,false,false,false
+659,dullhunk,01/04/12,130688098848882688,DN_P,false,,false,discusses,false,false,false
+660,dullhunk,01/04/12,124798836815310848,esratubamutlu,false,,false,discusses,false,false,false
+661,dullhunk,01/04/12,124796611044978688,why_we_do_that,false,,false,discusses,false,false,false
+662,dullhunk,01/04/12,128487531892318208,zuluagajorge,false,,false,discusses,false,false,false
+663,dullhunk,01/04/12,122334928095559680,LasVegasSkin,false,,false,discusses,false,false,false
+664,dullhunk,01/04/12,123034950248312832,usmolecular,false,,false,discusses,false,false,false
+665,dullhunk,01/04/12,127370386802352130,sraosha,false,,false,discusses,false,false,false
+666,dullhunk,01/04/12,127814480355790848,talulinha,false,,false,discusses,false,false,false
+667,dullhunk,01/04/12,127125816525066241,glassmanamanda,false,,false,discusses,false,false,false
+668,dullhunk,01/04/12,128083840106369024,EsdeGroot,false,,false,discusses,false,false,true
+669,dullhunk,01/04/12,127127040225837056,HIV_Insight,false,,false,discusses,false,false,false
+670,dullhunk,01/04/12,125576750817214464,MicrobiologyNet,false,,false,discusses,false,false,false
+671,dullhunk,01/04/12,127100818632609792,CharlieBio,false,,false,discusses,false,false,true
+672,dullhunk,01/04/12,123327805781049344,plants_pcu_uct,false,,false,discusses,false,false,false
+673,dullhunk,01/04/12,129628778157719552,topbiopapers,false,,false,discusses,false,false,false
+674,dullhunk,01/04/12,129554936714366976,isaiahhankel,false,,false,discusses,false,false,true
+675,dullhunk,01/04/12,121526759589023745,anxietynews,false,,false,discusses,false,false,false
+676,dullhunk,01/04/12,130016752653451264,davewalshphoto,false,,true,discusses,false,false,false
+677,dullhunk,01/04/12,124082377143230464,alexandrend,false,,false,discusses,false,false,false
+678,dullhunk,01/04/12,120339595798921216,usmleschool,false,,false,discusses,false,false,false
+679,mgorodnitzky,01/04/12,127480051057958912,LungCancer_OW,false,,false,discusses,false,false,false
+680,brembs,01/04/12,130688098848882688,DN_P,false,,false,discusses,false,false,false
+681,brembs,01/04/12,128946445935050752,LaraPizzorno,false,,false,discusses,false,false,false
+682,brembs,01/04/12,122334928095559680,LasVegasSkin,false,,false,discusses,false,false,false
+683,brembs,01/04/12,127659682079834112,top_tw_science,false,,false,discusses,false,false,false
+684,brembs,01/04/12,128487531892318208,zuluagajorge,false,,false,discusses,false,false,false
+685,brembs,01/04/12,129921385035350016,smalljournal,false,,true,discusses,false,false,false
+686,brembs,01/04/12,121242030138597377,thejns,false,,true,discusses,false,false,false
+687,brembs,01/04/12,124488164407648256,carinap,false,,false,agreesWith,false,false,false
+688,brembs,01/04/12,129895050447552512,smangubhai,false,,false,agreesWith,false,false,false
+689,brembs,01/04/12,126144363154780161,UNMCogNeuro,false,,false,discusses,false,false,false
+690,brembs,01/04/12,129296820722614273,AlysonHypnotik1,false,,false,discusses,false,false,true
+691,brembs,01/04/12,129995605836701696,leafwendywhit,false,,false,discusses,false,false,false
+692,brembs,01/04/12,127113971630219264,ImmuneDude,false,,false,agreesWith,false,false,false
+693,brembs,01/04/12,122330751348908032,thomasichim,false,,false,agreesWith,false,false,false
+694,brembs,01/04/12,120249370024230912,mmykim,false,,false,agreesWith,false,false,false
+695,brembs,01/04/12,127814480355790848,talulinha,false,,false,discusses,false,false,false
+696,brembs,01/04/12,127682645583863808,esmilodonte,false,,false,discusses,false,false,false
+697,egonwillighagen,01/04/12,127814480355790848,talulinha,false,,false,discusses,false,false,false
+698,egonwillighagen,01/04/12,120943709457096704,jennifernuzzo,false,,false,agreesWith,false,false,true
+699,egonwillighagen,01/04/12,129460998838030337,angeclow,false,,false,discusses,false,false,false
+700,egonwillighagen,01/04/12,130688098848882688,DN_P,false,,false,agreesWith,false,false,false
+701,egonwillighagen,01/04/12,128946445935050752,LaraPizzorno,false,,false,discusses,false,false,true
+702,egonwillighagen,01/04/12,123034950248312832,usmolecular,false,,false,discusses,false,false,false
+703,egonwillighagen,01/04/12,129647548385333248,k_hettinga,false,,false,discusses,false,false,false
+704,brembs,01/04/12,124798836815310848,esratubamutlu,false,,false,discusses,false,false,false
+705,egonwillighagen,01/04/12,126413440066662400,bankstowngp,false,,false,discusses,false,false,false
+706,brembs,01/04/12,126804048727912448,healthpolicygrp,false,,false,discusses,false,false,false
+707,brembs,01/04/12,125280404541419521,tomheston,false,,false,discusses,false,false,false
+708,brembs,01/04/12,127106854949105666,_lailak_,false,,false,agreesWith,false,false,false
+709,egonwillighagen,01/04/12,126321897418932224,CellLine2012,false,,false,discusses,false,false,false
+710,egonwillighagen,01/04/12,121565784928555008,bachinsky,false,,false,discusses,false,false,false
+711,brembs,01/04/12,121198060889063424,lbxat,false,,false,discusses,false,false,false
+712,brembs,01/04/12,121963944217808897,miloumenard,false,,false,discusses,false,false,false
+713,brembs,01/04/12,128884629934571521,ArmaVirumque,false,,false,discusses,false,false,false
+714,brembs,01/04/12,128658352627650560,sarasteinmd,false,,false,agreesWith,false,false,true
+715,mfenner,01/05/12,128487531892318208,zuluagajorge,false,Physics &amp; Astronomy,false,discusses,false,false,false
+716,mfenner,01/04/12,130677527873204224,andypsumner,false,,false,discusses,false,false,false
+717,mfenner,01/05/12,127370386802352130,sraosha,false,Medicine &amp; Health,false,discusses,false,false,true
+718,mfenner,01/05/12,121232206868918272,grunigen,false,Life Sciences,false,discusses,false,false,false
+719,mfenner,01/05/12,129923575644823552,AnnemarieVtW,false,Medicine &amp; Health,false,discusses,false,false,true
+720,mfenner,01/05/12,128870421591371776,artfromscrap,false,Earth Sciences,false,discusses,false,false,false
+721,mfenner,01/04/12,128193120251813888,NASPGHAN,false,,false,discusses,false,false,false
+722,mfenner,01/05/12,125199469208813569,mwidner,false,Life Sciences,false,discusses,false,false,true
+723,mfenner,01/05/12,126265864889700353,MCKASH,false,Computer Science &amp; Math,false,discusses,true,false,false
+724,mfenner,01/05/12,124085762315665410,balapagos,false,Life Sciences,false,agreesWith,false,false,false
+725,mfenner,01/04/12,128891066488332288,TrendsMicrobiol,false,,false,discusses,false,false,true
+726,mfenner,01/05/12,123650563622711296,floszcrxl,false,Medicine &amp; Health,false,discusses,false,false,false
+727,mfenner,01/05/12,128597261281275904,drBerick,false,Medicine &amp; Health,false,discusses,false,false,false
+728,mfenner,01/04/12,127444324504969216,tanyagolashboza,false,,false,discusses,false,false,false
+729,mfenner,01/05/12,127791459607912448,GreenJournal,false,Medicine &amp; Health,false,discusses,false,false,false
+730,mfenner,01/05/12,123724237470048256,soclatalergia,false,Medicine &amp; Health,false,discusses,false,false,false
+731,mfenner,01/04/12,127356139728941056,Beatepdx,false,,false,discusses,false,false,false
+732,mfenner,01/05/12,120090626221019136,stti,false,Medicine &amp; Health,false,discusses,false,false,true
+733,mfenner,01/05/12,128580816522575872,marchenina,false,Medicine &amp; Health,false,discusses,false,false,false
+734,mfenner,01/04/12,127596771949031425,toxipal,false,,false,discusses,false,false,false
+735,mfenner,01/04/12,126643038972936192,edyong209,false,,false,discusses,false,false,false
+736,mfenner,01/04/12,124328837969477633,juancivancevich,false,,false,discusses,false,false,false
+737,herrison,01/04/12,130688098848882688,DN_P,false,,false,discusses,true,false,false
+738,herrison,01/04/12,128946445935050752,LaraPizzorno,false,,false,discusses,true,false,true
+739,herrison,01/04/12,121927974567149569,chadthomasmp,false,,false,discusses,false,false,false
+740,herrison,01/04/12,129647548385333248,k_hettinga,false,,false,discusses,false,false,false
+741,herrison,01/04/12,124796611044978688,why_we_do_that,false,,false,discusses,false,false,false
+742,herrison,01/04/12,127659682079834112,top_tw_science,false,,false,agreesWith,false,false,false
+743,herrison,01/04/12,121237741840252928,jack_cmh,false,,false,discusses,false,false,false
+744,herrison,01/04/12,122334928095559680,LasVegasSkin,false,,false,discusses,false,false,false
+745,herrison,01/04/12,124488164407648256,carinap,false,,false,discusses,true,false,true
+746,herrison,01/04/12,121242030138597377,thejns,false,,false,discusses,false,false,false
+747,herrison,01/04/12,120217214002528256,benlubbon,false,,false,agreesWith,false,false,false
+748,herrison,01/04/12,126390507617255424,ArgosNeurosci,false,,false,discusses,false,false,false
+749,herrison,01/04/12,129953004295163904,yeacollective,false,,false,discusses,false,false,false
+750,herrison,01/04/12,124647924012564480,kookyideas,false,,false,discusses,false,false,false
+751,herrison,01/04/12,125208717930151936,medieduc,false,,false,discusses,false,false,false
+752,herrison,01/04/12,128241606510903296,MorelandHall,false,,false,agreesWith,false,false,false
+753,herrison,01/04/12,123359874137600000,age_and_ageing,false,,false,discusses,false,false,false
+754,herrison,01/04/12,129526516437622784,ShockJournal,false,,false,discusses,false,false,false
+755,herrison,01/04/12,127106854949105666,_lailak_,false,,false,discusses,false,false,false
+756,herrison,01/04/12,121669385873145856,mcs_america,false,,false,discusses,false,false,false
+757,herrison,01/04/12,124551051222327296,Montagist,false,,false,discusses,false,false,false
+758,herrison,01/04/12,124504469403734016,pranagirl,false,,false,discusses,false,false,false
+759,herrison,01/04/12,121526759589023745,anxietynews,false,,false,discusses,false,false,false
+760,herrison,01/04/12,128937495944626176,CEP_Rachel,false,,false,discusses,true,false,true
+761,herrison,01/04/12,123577727503699969,blackphysicists,false,,false,discusses,false,false,false
+762,herrison,01/04/12,124514973597708288,api_health,false,,false,discusses,true,false,false
+763,herrison,01/04/12,126971358608494592,naborala,false,,false,discusses,false,false,false
+764,herrison,01/04/12,129252414321721344,FabyJimenezR,false,,false,discusses,false,false,false
+765,herrison,01/04/12,128477064511766529,zuluagajorge,false,,false,discusses,false,false,false
+766,herrison,01/04/12,126767659076435970,ovicornel,false,,false,discusses,false,false,false
+767,herrison,01/04/12,128083840106369024,EsdeGroot,false,,false,discusses,false,false,true
+768,herrison,01/04/12,124197070201569280,qivana_health,false,,false,discusses,false,false,true
+769,herrison,01/04/12,130095101895647233,BilliePerry,false,,false,discusses,false,false,false
+770,herrison,01/04/12,120996646392832000,pregnancyissues,false,,false,discusses,false,false,false
+771,herrison,01/04/12,130280886066356225,hmpharmacon,false,,false,discusses,false,false,false
+772,herrison,01/04/12,126084050401230849,cruisinwithted,true,,false,discusses,false,false,false
+773,emckiernan13,01/04/12,130688098848882688,DN_P,false,,false,discusses,false,false,false
+774,emckiernan13,01/04/12,128946445935050752,LaraPizzorno,false,,false,discusses,false,false,false
+775,emckiernan13,01/04/12,121927974567149569,chadthomasmp,false,,false,discusses,false,false,false
+776,emckiernan13,01/04/12,126413440066662400,bankstowngp,false,,false,discusses,false,false,false
+777,emckiernan13,01/04/12,127250322304413696,Travel_Health,false,,false,discusses,false,false,false
+778,emckiernan13,01/04/12,129921385035350016,smalljournal,false,,true,discusses,false,false,false
+779,emckiernan13,01/04/12,121242030138597377,thejns,false,,false,discusses,false,false,false
+780,emckiernan13,01/04/12,124488164407648256,carinap,false,,false,discusses,false,false,false
+781,emckiernan13,01/04/12,129895050447552512,smangubhai,false,,false,discusses,false,false,false
+782,emckiernan13,01/04/12,126144363154780161,UNMCogNeuro,false,,false,discusses,false,false,false
+783,emckiernan13,01/04/12,119932718426492928,theplantjournal,false,,true,discusses,false,false,false
+784,emckiernan13,01/04/12,128487531892318208,zuluagajorge,false,,false,discusses,false,false,false
+785,emckiernan13,01/04/12,124798836815310848,esratubamutlu,false,,false,discusses,false,false,false
+786,emckiernan13,01/04/12,122334928095559680,LasVegasSkin,false,,false,discusses,false,false,false
+787,emckiernan13,01/04/12,124796611044978688,why_we_do_that,false,,false,discusses,false,false,false
+788,emckiernan13,01/04/12,123034950248312832,usmolecular,false,,false,discusses,false,false,false
+789,emckiernan13,01/04/12,130677527873204224,andypsumner,false,,false,discusses,false,false,false
+790,emckiernan13,01/04/12,127370386802352130,sraosha,false,,false,discusses,false,false,true
+791,emckiernan13,01/04/12,127372358959898624,Surglap,false,,false,discusses,false,false,false
+792,emckiernan13,01/04/12,127814480355790848,talulinha,false,,false,discusses,false,false,false
+793,emckiernan13,01/04/12,123220535428653057,ditahov,true,,false,discusses,false,false,false
+794,emckiernan13,01/04/12,127100818632609792,CharlieBio,false,,false,discusses,false,false,true
+795,emckiernan13,01/04/12,127125816525066241,glassmanamanda,false,,false,discusses,false,false,false
+796,emckiernan13,01/04/12,121526759589023745,anxietynews,false,,false,discusses,false,false,false
+797,emckiernan13,01/04/12,127480051057958912,LungCancer_OW,false,,false,discusses,false,false,false
+798,emckiernan13,01/04/12,123413221204951040,aidsandbehavior,false,,true,discusses,false,false,false
+799,emckiernan13,01/04/12,123050740833992704,srisatish,false,,false,disagreesWith,true,false,false
+800,sergioruizperez,01/04/12,130688098848882688,DN_P,false,,false,discusses,false,false,false
+801,sergioruizperez,01/04/12,128946445935050752,LaraPizzorno,false,,false,agreesWith,false,false,true
+802,sergioruizperez,01/04/12,121927974567149569,chadthomasmp,false,,false,disagreesWith,false,false,false
+803,sergioruizperez,01/04/12,126413440066662400,bankstowngp,false,,false,discusses,false,false,false
+804,sergioruizperez,01/04/12,128487531892318208,zuluagajorge,false,,false,discusses,false,false,false
+805,sergioruizperez,01/04/12,121067947010686976,vincentr,false,,false,agreesWith,false,false,false
+806,mfenner,01/04/12,120208801881260032,maryheston,false,,false,discusses,false,false,true
+807,mfenner,01/05/12,121237741840252928,jack_cmh,false,Physics &amp; Astronomy,false,discusses,false,false,true
+808,dullhunk,01/04/12,130243783869739008,EmeraldMkting,false,,false,discusses,false,false,false
+809,dullhunk,01/04/12,124859883358130179,EdwardWinstead,false,,false,discusses,false,false,false
+810,dullhunk,01/04/12,122841471865991170,CardiologiaF,false,,false,discusses,false,false,false
+811,dullhunk,01/04/12,125323651099795456,hotzkotz,false,,false,discusses,false,false,false
+812,dullhunk,01/04/12,124657003263049728,heptwit,false,,false,discusses,false,false,false
+813,dullhunk,01/04/12,130740017218854912,Chris_Evelo,false,,false,discusses,false,false,false
+814,dullhunk,01/04/12,121978458225131521,hanizaza,false,,false,discusses,false,false,false
+815,dullhunk,01/04/12,120661741247008768,slade37,false,,false,discusses,false,false,true
+816,dullhunk,01/04/12,122002275077079040,chris_p_silva,false,,false,discusses,false,false,false
+817,dullhunk,01/04/12,128792706800558080,fermin771009,false,,false,discusses,false,false,false
+818,dullhunk,01/04/12,120063177026322432,womenwhowine,false,,false,discusses,false,false,false
+819,dullhunk,01/04/12,120996646392832000,pregnancyissues,false,,false,discusses,false,false,false
+820,mfenner,01/05/12,124241975120625664,elsevierbiofuel,false,Chemistry &amp; Materials Science,false,discusses,true,false,false
+821,mfenner,01/04/12,129895050447552512,smangubhai,false,,false,discusses,false,false,false
+822,mfenner,01/04/12,129628778157719552,topbiopapers,false,,false,discusses,false,false,false
+823,mfenner,01/05/12,125205352898768896,alitimumab,false,Life Sciences,false,discusses,false,false,false
+824,mfenner,01/04/12,125926970205802496,Journalologist,false,,false,discusses,false,false,false
+825,mfenner,01/04/12,129133428837842944,mlalanda,false,,false,discusses,false,false,true
+826,mfenner,01/04/12,127031292880633856,MPPjournal,false,,true,discusses,false,false,true
+827,mfenner,01/04/12,129252414321721344,FabyJimenezR,false,,false,discusses,false,false,false
+828,mfenner,01/04/12,123759826126913537,satan_from_hell,false,,false,discusses,true,false,false
+829,mfenner,01/05/12,122270223641493504,14febrevolution,false,Medicine &amp; Health,false,discusses,false,false,false
+830,elmibester,01/05/12,124669047408308224,couragebuilder,false,,false,discusses,false,false,true
+831,gi06,01/05/12,123413221204951040,aidsandbehavior,false,,false,discusses,false,false,false
+832,gi06,01/05/12,125465158314233856,ndenk_renny,false,,false,discusses,false,false,false
+833,gi06,01/05/12,127216446135746560,XMRV_GA,false,,false,discusses,false,false,false
+834,gi06,01/05/12,128375817939058688,seanhodges1,false,,false,discusses,false,false,false
+835,gi06,01/05/12,124139803892658176,peter_tennant,false,,false,discusses,false,false,true
+836,mfenner,01/05/12,127531054255976448,BodyWorks_,false,Life Sciences,false,discusses,false,false,true
+837,mfenner,01/05/12,124030497167904768,pipwillcox,false,Social Sciences &amp; Economics,false,discusses,false,false,false
+838,mfenner,01/05/12,123472991001645056,candicerose,false,Medicine &amp; Health,false,discusses,false,false,false
+839,mfenner,01/05/12,126602532633051136,NicholasMMurphy,false,Life Sciences,false,discusses,false,false,true
+840,mfenner,01/05/12,129088848402710528,foodslives,false,Medicine &amp; Health,false,discusses,false,false,false
+841,mfenner,01/20/12,126824691699687424,ramblemuse,false,Computer Science &amp; Math,false,discusses,false,false,false
+842,mfenner,01/05/12,124976667105034240,ogevaert,false,,false,discusses,false,false,false
+843,mfenner,01/05/12,124963107398352896,keepingupwithem,false,Medicine &amp; Health,false,discusses,false,true,false
+844,mfenner,01/05/12,127397081370464256,MauroBruno,false,Computer Science &amp; Math,false,discusses,false,false,false
+845,mfenner,01/05/12,125030017162952704,nicholasmmurphy,false,Life Sciences,false,discusses,false,false,true
+846,mfenner,01/05/12,128561753679343616,cmsinnovates,false,Medicine &amp; Health,false,discusses,false,false,false
+847,mfenner,01/05/12,129573167332212737,Prison_Health,false,,false,discusses,false,false,false
+848,mfenner,01/05/12,128829840165056513,habermanassoc,false,,false,discusses,false,false,false
+849,mfenner,01/05/12,125876715095465984,myESMO,false,,false,discusses,false,false,false
+850,mfenner,01/05/12,123489792469114880,dvgroenewoud,false,,false,discusses,false,false,false
+851,mfenner,01/05/12,129347703955144704,sleepingmenace,false,,false,discusses,false,false,false
+852,jdierkes,01/05/12,123836568493490176,ericmjohnson,false,,false,discusses,false,false,false
+853,Nil_Wilson,01/05/12,124162785788694528,kookyideas,false,,false,discusses,false,false,true
+854,Nil_Wilson,01/05/12,128852195381751808,mjpallen,false,,false,discusses,false,false,false
+855,Nil_Wilson,01/05/12,130127354633785344,wintjc,false,,false,discusses,false,false,false
+856,Nil_Wilson,01/05/12,127791459607912448,GreenJournal,false,,true,discusses,false,false,false
+857,Nil_Wilson,01/07/12,122293601135886337,carnetherborist,false,Medicine &amp; Health,false,discusses,false,false,false
+858,Nil_Wilson,01/05/12,124288156630659072,kerikimler,false,,false,discusses,false,false,false
+859,mfenner,01/05/12,124040180725334017,prabprab,false,Other,false,agreesWith,false,false,false
+860,Stew,01/06/12,127127040225837056,HIV_Insight,false,Medicine &amp; Health,false,discusses,false,false,false
+861,Stew,01/06/12,120067699261964288,openpgx,false,Medicine &amp; Health,false,discusses,false,false,false
+862,Stew,01/06/12,122430020038828032,hslowerbackpain,false,Medicine &amp; Health,false,discusses,false,false,true
+863,mfenner,01/06/12,122059189504835584,pamj84,false,Medicine &amp; Health,false,discusses,false,false,false
+864,mfenner,01/06/12,126443022689910784,UrbanFarminGirl,false,,true,discusses,false,false,false
+865,mfenner,01/06/12,120943709457096704,jennifernuzzo,false,Medicine &amp; Health,false,discusses,false,false,true
+866,Nil_Wilson,01/07/12,123507227209383936,enthouse,false,Medicine &amp; Health,false,discusses,false,false,false
+867,Nil_Wilson,01/07/12,125755597332287490,PopiSunga,false,Medicine &amp; Health,false,agreesWith,false,false,false
+868,Nil_Wilson,01/07/12,126987447002341376,Risalavizzo,false,Medicine &amp; Health,false,discusses,false,false,false
+869,Nil_Wilson,01/07/12,128083840106369024,EsdeGroot,false,Other,false,discusses,false,false,false
+870,Nil_Wilson,01/07/12,126443022689910784,UrbanFarminGirl,false,Medicine &amp; Health,true,discusses,false,false,false
+871,Nil_Wilson,01/07/12,123159607156809728,ncdchild,false,Medicine &amp; Health,false,discusses,false,false,false
+872,Nil_Wilson,01/07/12,123728714155573248,chemasianj,false,Chemistry &amp; Materials Science,true,discusses,false,false,false
+873,Nil_Wilson,01/07/12,123317145999376384,andrewichert,false,Medicine &amp; Health,false,discusses,false,false,true
+874,Nil_Wilson,01/07/12,119910644878278657,juancivancevich,false,Medicine &amp; Health,false,discusses,false,false,false
+875,Nil_Wilson,01/07/12,125936642077888512,medlinksolution,false,Medicine &amp; Health,false,discusses,false,false,false
+876,Nil_Wilson,01/07/12,123489792469114880,dvgroenewoud,false,Medicine &amp; Health,false,discusses,false,false,false
+877,Nil_Wilson,01/07/12,121622639843344385,jintyg51,false,Medicine &amp; Health,false,discusses,false,false,false
+878,Nil_Wilson,01/07/12,123724237470048256,soclatalergia,false,Medicine &amp; Health,false,discusses,false,false,false
+879,Nil_Wilson,01/07/12,122381281395875842,denisegilmartin,false,Medicine &amp; Health,false,discusses,false,false,false
+880,Nil_Wilson,01/07/12,122274383917088768,leoadramos,false,Medicine &amp; Health,false,discusses,false,false,false
+881,Nil_Wilson,01/07/12,124839266214887424,rons_rov_links,false,Earth Sciences,false,discusses,false,false,false
+882,Nil_Wilson,01/07/12,121247451981168640,hoppy212ny,false,Medicine &amp; Health,false,discusses,false,false,false
+883,Nil_Wilson,01/07/12,120339595798921216,usmleschool,false,Medicine &amp; Health,false,discusses,false,false,false
+884,Nil_Wilson,01/07/12,124421269444763648,mabur,false,Medicine &amp; Health,false,discusses,true,false,false
+885,Nil_Wilson,01/07/12,125813320950366208,PregnancyIssues,false,Medicine &amp; Health,false,discusses,false,false,false
+886,Nil_Wilson,01/07/12,122365987860389888,zajel_bh,false,Other,false,discusses,false,false,false
+887,Nil_Wilson,01/07/12,125235176908390401,gregory011,false,,false,discusses,false,false,false
+888,Nil_Wilson,01/07/12,121669385873145856,mcs_america,false,Medicine &amp; Health,false,discusses,false,false,false
+889,Nil_Wilson,01/07/12,130370000597946368,dfjpt,false,Medicine &amp; Health,false,agreesWith,false,true,false
+890,Nil_Wilson,01/07/12,123732875819491329,madhatter_xam,false,,false,discusses,true,true,false
+891,Nil_Wilson,01/07/12,121253443611525120,maryheston,false,Medicine &amp; Health,false,discusses,false,false,false
+892,Nil_Wilson,01/07/12,126051421031378944,IndiGenome,false,,false,discusses,false,false,false
+893,Nil_Wilson,01/07/12,127033515819794432,gwbled,false,Physics &amp; Astronomy,false,discusses,false,false,false
+894,Nil_Wilson,01/07/12,128210290918694912,stopbackache,false,Medicine &amp; Health,false,discusses,false,false,true
+895,Nil_Wilson,01/07/12,129424448095911936,_medjournal,false,,false,discusses,false,false,false
+896,Nil_Wilson,01/07/12,123050740833992704,srisatish,false,,false,disagreesWith,false,false,false
+897,Nil_Wilson,01/07/12,125926970205802496,Journalologist,false,,false,disagreesWith,false,false,false
+898,Nil_Wilson,01/07/12,126975209487073280,AnestesiaF,false,Medicine &amp; Health,false,discusses,false,false,false
+899,Nil_Wilson,01/07/12,121232354567131136,tweetingautism,false,Medicine &amp; Health,false,discusses,false,false,false
+900,Nil_Wilson,01/07/12,121923491221082112,razz0r,false,,false,discusses,false,false,false
+901,Nil_Wilson,01/07/12,124146206556438528,4Hypertension,false,Medicine &amp; Health,false,discusses,false,false,false
+902,Nil_Wilson,01/07/12,126012191173386240,CardiologiaF,false,,false,discusses,false,false,false
+903,Nil_Wilson,01/07/12,124963107398352896,keepingupwithem,false,Medicine &amp; Health,false,discusses,false,true,false
+904,Nil_Wilson,01/07/12,121978665738321920,pattrepanier,false,,false,discusses,false,false,false
+905,Nil_Wilson,01/07/12,124114860651986945,azhoka77,true,,false,discusses,false,false,false
+906,Nil_Wilson,01/07/12,125949455211044864,notimetoteach,false,,false,discusses,false,false,false
+907,researchremix,01/09/12,123220535428653057,ditahov,true,,false,discusses,false,false,false
+908,researchremix,01/09/12,126939166700339200,CAT_DOG_EGG,false,,false,discusses,false,false,false
+909,researchremix,01/09/12,126760973800443904,555CaliforniaSt,false,,false,agreesWith,false,false,false
+910,researchremix,01/09/12,127417111915143169,BrownJosephW,false,,false,agreesWith,false,false,false
+911,researchremix,01/09/12,129548831242199040,allison_lang,false,,false,agreesWith,false,false,false
+912,researchremix,01/09/12,124655168674463745,droncoped,false,,false,discusses,true,false,false
+913,researchremix,01/09/12,126694928540647424,TheSpiderMind,false,,false,discusses,false,false,true
+914,researchremix,01/09/12,126346307655835648,gastromom,false,,false,discusses,false,false,true
+915,researchremix,01/09/12,124551051222327296,Montagist,false,,false,discusses,false,true,false
+916,researchremix,01/09/12,127528565657964544,ReadSLL,false,,false,discusses,false,false,false
+917,researchremix,01/09/12,127700968694489088,okaimono39,false,,false,discusses,false,false,true
+918,Nil_Wilson,01/11/12,128295976304775168,Charakan,false,Medicine &amp; Health,false,agreesWith,false,false,true
+919,Nil_Wilson,01/11/12,129387286218551298,YaenoT,false,,false,discusses,false,false,true
+920,Nil_Wilson,01/11/12,126804048727912448,healthpolicygrp,false,Medicine &amp; Health,false,discusses,false,false,false
+921,Nil_Wilson,01/11/12,125280404541419521,tomheston,false,Medicine &amp; Health,false,discusses,false,false,false
+922,Nil_Wilson,01/11/12,129628694670082048,Undertow851RSS,false,Medicine &amp; Health,false,discusses,false,false,false
+923,Nil_Wilson,01/11/12,127265559522979840,Botanical_,false,,false,discusses,false,false,false
+924,Nil_Wilson,01/11/12,128137382204682240,micro_biome,false,Medicine &amp; Health,false,discusses,false,false,false
+925,Nil_Wilson,01/11/12,130131985925541889,mr_ganocoffee,false,Medicine &amp; Health,false,agreesWith,false,false,false
+926,Nil_Wilson,01/11/12,126720567280803840,tomlecabron,false,,false,agreesWith,false,false,false
+927,Nil_Wilson,01/11/12,127305188183785472,calmedoc,false,Medicine &amp; Health,false,discusses,false,false,false
+928,Nil_Wilson,01/11/12,123740509813481472,nkyhorseman,false,,false,discusses,false,true,false
+929,Nil_Wilson,01/11/12,129958327546425344,bexfelin,false,,false,discusses,false,false,false
+930,Nil_Wilson,01/11/12,124898297595957248,hmsilverman,false,,false,discusses,false,false,false
+931,Nil_Wilson,01/11/12,129995133637763072,OliCorkhill,false,,false,discusses,false,false,false
+932,Nil_Wilson,01/11/12,121220257145815040,orthopaedia,false,Medicine &amp; Health,false,discusses,false,false,false
+933,Nil_Wilson,01/11/12,123788395242725377,domkane,false,Computer Science &amp; Math,false,discusses,false,false,true
+934,Nil_Wilson,01/11/12,125327035064258560,JofOrthoTrauma,false,,true,discusses,false,false,false
+935,brembs,01/11/12,126265864889700353,MCKASH,false,,false,discusses,false,false,false
+936,brembs,01/11/12,129936328929460224,RogerDJones1,false,,false,discusses,false,false,false
+937,mfenner,01/12/12,123509155892957184,kcarlbot,false,Life Sciences,false,discusses,false,false,false
+938,mfenner,01/12/12,123371028847144960,riktacken,false,Medicine &amp; Health,false,discusses,true,false,false
+939,mfenner,01/12/12,121560437543272448,lucozadeinsider,false,Medicine &amp; Health,false,discusses,false,false,true
+940,mfenner,01/12/12,124790512774422528,arawa5,false,Physics &amp; Astronomy,false,agreesWith,false,false,false
+941,mfenner,01/12/12,128137382204682240,micro_biome,false,Medicine &amp; Health,false,discusses,false,false,false
+942,mfenner,01/12/12,123813139132325888,angew_chem,false,Chemistry &amp; Materials Science,false,discusses,false,false,false
+943,mfenner,01/12/12,120620031464849408,dreddvm,false,Life Sciences,false,discusses,false,false,false
+944,mfenner,01/12/12,129016628007542784,pvo1reuma,false,Medicine &amp; Health,false,agreesWith,false,false,false
+945,mfenner,01/12/12,126987447002341376,Risalavizzo,false,Medicine &amp; Health,false,discusses,false,false,true
+946,mfenner,01/12/12,123665011288702976,lstmjournals,false,Medicine &amp; Health,false,discusses,false,false,true
+947,mfenner,01/12/12,123507227209383936,enthouse,false,Medicine &amp; Health,false,discusses,false,false,true
+948,mfenner,01/12/12,121247451981168640,hoppy212ny,false,Medicine &amp; Health,false,discusses,false,false,false
+949,mfenner,01/12/12,127125816525066241,glassmanamanda,false,Medicine &amp; Health,false,discusses,false,false,false
+950,mfenner,01/12/12,125936642077888512,medlinksolution,false,Medicine &amp; Health,false,discusses,true,false,false
+951,mfenner,01/12/12,128959805766373376,BlackPhysicists,false,Physics &amp; Astronomy,false,discusses,false,false,false
+952,mfenner,01/12/12,124158413277114368,brembs,false,Life Sciences,false,discusses,true,false,false
+953,mfenner,01/12/12,127397326313627648,GaBioscience,false,Medicine &amp; Health,false,discusses,false,false,false
+954,mfenner,01/12/12,127706456094027776,nil_by,false,Medicine &amp; Health,false,discusses,false,false,true
+955,mfenner,01/12/12,120926650102853632,hey_ghis,false,Medicine &amp; Health,false,discusses,false,false,false
+956,mfenner,01/12/12,127868668230123520,cascadewellness,false,Medicine &amp; Health,false,discusses,false,false,true
+957,mfenner,01/12/12,124145915375267840,licorbio,false,Medicine &amp; Health,false,discusses,true,false,false
+958,mfenner,01/12/12,125969805911138304,jrmoss55,false,Medicine &amp; Health,false,discusses,false,false,false
+959,mfenner,01/12/12,127929391773777921,erptc,false,Medicine &amp; Health,false,discusses,false,false,false
+960,mfenner,01/12/12,128941200509108224,DrSusanneFarwer,false,Medicine &amp; Health,false,discusses,false,false,false
+961,Nil_Wilson,01/12/12,125251468893749249,cdrawn,false,Other,false,discusses,false,false,false
+962,Nil_Wilson,01/12/12,128933483765702656,SeifBourogaa,false,,false,discusses,false,false,false
+963,Nil_Wilson,01/12/12,127703821676838912,GreenGuideUK,false,,false,discusses,false,false,false
+964,Nil_Wilson,01/12/12,127384809742934016,emilymbadger,false,,false,discusses,false,false,false
+965,Nil_Wilson,01/12/12,128745983793311745,psychmag,false,Social Sciences &amp; Economics,false,discusses,false,false,false
+966,Nil_Wilson,01/12/12,123194548116652034,cardiologiaf,false,,false,discusses,false,false,false
+967,Nil_Wilson,01/12/12,128020601557364736,Graham_Kendall,false,,false,discusses,false,false,false
+968,Nil_Wilson,01/12/12,123549070299111425,billestes10,false,,false,agreesWith,false,false,false
+969,Nil_Wilson,01/12/12,126390507617255424,ArgosNeurosci,false,Life Sciences,false,discusses,false,false,false
+970,Nil_Wilson,01/12/12,124197070201569280,qivana_health,false,Medicine &amp; Health,false,discusses,false,false,false
+971,Nil_Wilson,01/12/12,127338626722959360,fibroaction,false,Medicine &amp; Health,false,discusses,false,false,false
+972,Nil_Wilson,01/12/12,130636211625787392,RefractiveIndex,false,,false,discusses,false,false,true
+973,Nil_Wilson,01/12/12,121177812936822784,hlth_literacy,false,,false,discusses,false,false,false
+974,Nil_Wilson,01/12/12,123472991001645056,candicerose,false,,false,discusses,false,false,false
+975,Nil_Wilson,01/12/12,124997984978092033,why_we_do_that,false,Medicine &amp; Health,false,discusses,false,false,false
+976,Nil_Wilson,01/12/12,128597261281275904,drBerick,false,Medicine &amp; Health,false,discusses,false,false,false
+977,Nil_Wilson,01/12/12,123547877602639872,GinaSelir,false,Medicine &amp; Health,false,discusses,false,false,false
+978,Nil_Wilson,01/12/12,122334865185181697,jenarofv_md,false,Medicine &amp; Health,false,discusses,false,false,false
+979,Nil_Wilson,01/12/12,128817039312822272,dsindiana,false,Medicine &amp; Health,false,discusses,false,false,true
+980,Nil_Wilson,01/12/12,121718359418077184,ianrobinson,false,Chemistry &amp; Materials Science,false,discusses,false,false,false
+981,Nil_Wilson,01/12/12,121140310570041344,mariapage,false,Medicine &amp; Health,false,discusses,false,false,false
+982,Nil_Wilson,01/12/12,125690332594704385,shugod,false,,false,discusses,false,false,false
+983,Nil_Wilson,01/12/12,129960766676795392,Gastropractice,false,,false,discusses,false,false,false
+984,Nil_Wilson,01/12/12,125036777525346304,kanzaki_sumire,false,Medicine &amp; Health,false,discusses,false,false,false
+985,Nil_Wilson,01/12/12,123447589747163136,azizdash,false,,false,discusses,false,false,false
+986,Nil_Wilson,01/12/12,124731489626763264,mariejhill,false,Medicine &amp; Health,false,discusses,false,false,false
+987,Nil_Wilson,01/12/12,127929380705017856,eastriverrunner,false,Life Sciences,false,discusses,false,false,false
+988,Nil_Wilson,01/12/12,126988033441538048,ThePostsynaptic,false,,false,discusses,false,false,false
+989,Nil_Wilson,01/12/12,128979997804343296,ARIAGuideline,false,Medicine &amp; Health,false,discusses,false,false,false
+990,Nil_Wilson,01/12/12,129195649391525888,thepcrcompany,false,Medicine &amp; Health,false,discusses,false,false,false
+991,Nil_Wilson,01/12/12,119932215000969217,abidanfranco,false,,false,agreesWith,false,false,false
+992,Nil_Wilson,01/12/12,126440773599240193,BFMedicine,false,Medicine &amp; Health,false,discusses,false,false,true
+993,Nil_Wilson,01/12/12,120971409714458624,eathealthyinfo,false,,false,discusses,false,false,false
+994,Nil_Wilson,01/12/12,128918572616523776,SebValenz,false,,false,discusses,false,false,false
+995,Nil_Wilson,01/12/12,123650563622711296,floszcrxl,false,,false,discusses,false,false,false
+996,Nil_Wilson,01/12/12,125876715095465984,myESMO,false,,false,discusses,false,false,false
+997,Nil_Wilson,01/12/12,123228808714264576,JDBP_online,false,,true,discusses,false,false,false
+998,brembs,01/15/12,128475359002894337,EmeraldMkting,false,,false,discusses,false,false,false
+999,brembs,01/15/12,129960766676795392,Gastropractice,false,,false,discusses,false,false,false
+1000,brembs,01/15/12,124859883358130179,EdwardWinstead,false,,false,discusses,false,false,false
+1001,brembs,01/15/12,124655168674463745,droncoped,false,,false,discusses,false,false,true
+1002,brembs,01/15/12,129958327546425344,bexfelin,false,,false,discusses,false,false,false
+1003,brembs,01/15/12,129424448095911936,_medjournal,false,,false,discusses,false,false,false
+1004,brembs,01/15/12,124161116657041408,cathyndavidson,false,,false,discusses,false,false,true
+1005,brembs,01/15/12,128870421591371776,artfromscrap,false,,false,discusses,false,false,true
+1006,egonwillighagen,01/20/12,123194548116652034,cardiologiaf,false,,false,discusses,false,false,true
+1007,Nil_Wilson,01/21/12,124647924012564480,kookyideas,false,Medicine &amp; Health,false,discusses,false,false,false
+1008,Nil_Wilson,01/21/12,122357558135619584,ebnursingbmj,false,Medicine &amp; Health,true,discusses,false,false,false
+1009,Nil_Wilson,01/21/12,125969805911138304,jrmoss55,false,,false,discusses,false,false,false
+1010,Nil_Wilson,01/21/12,124580479314829312,jjriosblanco,false,,false,discusses,false,false,false
+1011,leilah,01/22/12,126227856408850432,ahenotri,false,Life Sciences,false,discusses,false,false,false
+1012,kzelnio,02/02/12,126403909605527552,XYMOGEN,false,Medicine &amp; Health,false,discusses,false,false,true
