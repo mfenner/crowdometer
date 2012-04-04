@@ -14,6 +14,7 @@ gem 'therubyracer'
 gem 'will_paginate', '>=3.0'
 gem 'bundler'
 gem "rake"
+gem 'delayed_job_active_record'
 gem 'daemons', "1.1.4"
 gem 'fastercsv', "1.5.4"
 gem 'haml', "3.1.3"
@@ -21,7 +22,6 @@ gem 'i18n', ">=0.5.0"
 gem 'libxml-ruby', '2.2.2', :require => 'xml'
 gem 'rdiscount', "1.6.8"
 gem 'soap4r', '>=1.5.8', :require => 'soap/rpc/driver'
-#gem 'starling', "0.10.1"
 gem 'SystemTimer', '1.2.3'
 gem 'formatize'
 gem 'devise', '1.4.9'

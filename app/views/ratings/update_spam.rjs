@@ -1,5 +1,0 @@
-if @is_spam
-  page[:cito].hide
-else
-  page[:cito].show
-end

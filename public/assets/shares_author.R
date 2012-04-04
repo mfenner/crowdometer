@@ -21,7 +21,7 @@ piesubtitle <- sprintf("%3.0f Tweets", sum(results))
 pielabels <- sprintf("%s (%2.0f%s)", names(results), 100*results/sum(results), "%")
 
 # Do the plotting
-opar <- par(mar=c(4,2,2,2), cex.sub=0.8, cex.main=1.4, fg="black", col.main="#25679a")
+opar <- par(mar=c(2,2,2,2), cex.sub=0.8, cex.main=1.4, fg="black", col.main="#25679a")
 pie(results, labels=pielabels, init.angle=130, cex=0.8, lty=1)
 title(main="Tweets by Author/Publisher of Paper", sub=piesubtitle, line=-1)
 par(opar)
